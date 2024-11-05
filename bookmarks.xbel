@@ -1039,6 +1039,120 @@
         <title>小众软件论坛</title>
       </bookmark>
     </folder>
+    <folder id="1075">
+      <title>游戏</title>
+      <folder id="1087">
+        <title>第七史诗</title>
+        <bookmark href="https://automan.joyqoo.com/epic7/gvg" id="1119">
+          <title>拉斯助手</title>
+        </bookmark>
+        <bookmark href="https://bbs.nga.cn/read.php?tid=37637980&amp;page=1&amp;rand=411" id="1120">
+          <title>第七史诗配装器</title>
+        </bookmark>
+        <bookmark href="https://icetail1.github.io/ICE-Calculate/e7-damage-calc/zh/" id="1121">
+          <title>第七史诗 伤害计算器ICE修改版</title>
+        </bookmark>
+        <bookmark href="https://word.yszso.com:8243/gongzuoshi" id="1122">
+          <title>第七精灵exe</title>
+        </bookmark>
+        <bookmark href="https://wiki.biligame.com/epic7/%E9%A6%96%E9%A1%B5" id="1123">
+          <title>e7bWIKI</title>
+        </bookmark>
+        <bookmark href="https://epic7.gamekee.com/" id="1124">
+          <title>e7wiki</title>
+        </bookmark>
+        <bookmark href="https://ceciliabot.github.io/#/" id="1125">
+          <title>CeciliaBot</title>
+        </bookmark>
+        <bookmark href="https://fribbels.github.io/e7/hero-library.html?hero=Savior+Adin" id="1126">
+          <title>e7Hero Library</title>
+        </bookmark>
+        <bookmark href="https://fribbels.github.io/e7/gw-meta.html" id="1127">
+          <title>Fribbels GW Meta Tracker</title>
+        </bookmark>
+      </folder>
+      <folder id="1088">
+        <title>原神</title>
+        <bookmark href="https://ngabbs.com/read.php?tid=28464477&amp;rand=879" id="1128">
+          <title>原神队伍伤害</title>
+        </bookmark>
+        <bookmark href="https://bbs.nga.cn/thread.php?fid=650" id="1129">
+          <title>原神-NGA</title>
+        </bookmark>
+        <bookmark href="https://spiralabyss.org/zh/floor-12-usage-rate" id="1130">
+          <title>原神深境螺旋使用率</title>
+        </bookmark>
+        <bookmark href="https://paimon.moe/" id="1131">
+          <title>原石抽卡</title>
+        </bookmark>
+        <bookmark href="https://cocogoat.work/achievement" id="1132">
+          <title>椰羊cocogoat</title>
+        </bookmark>
+        <bookmark href="https://webstatic.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&amp;lang=zh-cn#/map/2?shown_types=2,3,154,158,190,316,319,338,340&amp;center=1288.04,-826.89&amp;zoom=-1.00" id="1133">
+          <title>大地图工具</title>
+        </bookmark>
+        <bookmark href="https://mona-uranai.com/" id="1134">
+          <title>莫娜占卜铺</title>
+        </bookmark>
+        <bookmark href="https://genshincalc.kchlu.com/" id="1135">
+          <title>原神伤害可视化计算器</title>
+        </bookmark>
+        <bookmark href="https://genshin.mingyulab.com/artifact_set_compare/artifact_set_compare" id="1136">
+          <title>原魔计算器</title>
+        </bookmark>
+        <bookmark href="https://feixiaoqiu.com/" id="1137">
+          <title>非小酋</title>
+        </bookmark>
+      </folder>
+      <folder id="1089">
+        <title>Other</title>
+        <bookmark href="https://theporndude.com/zh" id="1138">
+          <title>Porn Dude</title>
+        </bookmark>
+        <bookmark href="https://zhuanlan.zhihu.com/p/441414230" id="1139">
+          <title>闲谈圣少女及其作品</title>
+        </bookmark>
+        <bookmark href="https://www.patreon.com/UnderTheWitch/posts" id="1140">
+          <title>NumericGazer</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://sway.office.com/1ESaLEE3x47BTgZC" id="1090">
+        <title>switch520</title>
+      </bookmark>
+      <bookmark href="https://gamepad-tester.com/" id="1091">
+        <title>手把</title>
+      </bookmark>
+    </folder>
+    <folder id="1076">
+      <title>mmd</title>
+      <bookmark href="https://blender.kim/" id="1092">
+        <title>魔酷网</title>
+      </bookmark>
+      <bookmark href="https://www.aplaybox.com/" id="1093">
+        <title>模之屋</title>
+      </bookmark>
+      <bookmark href="https://w.atwiki.jp/vpvpwiki/pages/272.html#id_3701549e" id="1094">
+        <title>MME</title>
+      </bookmark>
+      <bookmark href="https://riyutool.com/" id="1095">
+        <title>日语在线翻译</title>
+      </bookmark>
+      <bookmark href="https://www.mikuclub.cc/mmd" id="1096">
+        <title>初音社</title>
+      </bookmark>
+      <bookmark href="https://www.bilibili.com/read/cv7185607" id="1097">
+        <title>新人向MMD资源较详细全面索引</title>
+      </bookmark>
+      <bookmark href="https://bowlroll.net/r18/file/index" id="1098">
+        <title>BowlRoll</title>
+      </bookmark>
+      <bookmark href="https://3d.nicovideo.jp/" id="1099">
+        <title>ニコニ立体</title>
+      </bookmark>
+      <bookmark href="https://wenku.baidu.com/view/1cbca3a8cf22bcd126fff705cc17552707225e2c.html" id="1100">
+        <title>《MMD模型改模、建模、表情、修复教程》</title>
+      </bookmark>
+    </folder>
     <folder id="1271">
       <title>Other</title>
       <bookmark href="https://post.smzdm.com/p/a4pk5pr8/" id="1384">
@@ -1496,119 +1610,5 @@
 </folder>
 <folder id="1073">
   <title>Other Bookmarks</title>
-  <folder id="1075">
-    <title>游戏</title>
-    <folder id="1087">
-      <title>第七史诗</title>
-      <bookmark href="https://automan.joyqoo.com/epic7/gvg" id="1119">
-        <title>拉斯助手</title>
-      </bookmark>
-      <bookmark href="https://bbs.nga.cn/read.php?tid=37637980&amp;page=1&amp;rand=411" id="1120">
-        <title>第七史诗配装器</title>
-      </bookmark>
-      <bookmark href="https://icetail1.github.io/ICE-Calculate/e7-damage-calc/zh/" id="1121">
-        <title>第七史诗 伤害计算器ICE修改版</title>
-      </bookmark>
-      <bookmark href="https://word.yszso.com:8243/gongzuoshi" id="1122">
-        <title>第七精灵exe</title>
-      </bookmark>
-      <bookmark href="https://wiki.biligame.com/epic7/%E9%A6%96%E9%A1%B5" id="1123">
-        <title>e7bWIKI</title>
-      </bookmark>
-      <bookmark href="https://epic7.gamekee.com/" id="1124">
-        <title>e7wiki</title>
-      </bookmark>
-      <bookmark href="https://ceciliabot.github.io/#/" id="1125">
-        <title>CeciliaBot</title>
-      </bookmark>
-      <bookmark href="https://fribbels.github.io/e7/hero-library.html?hero=Savior+Adin" id="1126">
-        <title>e7Hero Library</title>
-      </bookmark>
-      <bookmark href="https://fribbels.github.io/e7/gw-meta.html" id="1127">
-        <title>Fribbels GW Meta Tracker</title>
-      </bookmark>
-    </folder>
-    <folder id="1088">
-      <title>原神</title>
-      <bookmark href="https://ngabbs.com/read.php?tid=28464477&amp;rand=879" id="1128">
-        <title>原神队伍伤害</title>
-      </bookmark>
-      <bookmark href="https://bbs.nga.cn/thread.php?fid=650" id="1129">
-        <title>原神-NGA</title>
-      </bookmark>
-      <bookmark href="https://spiralabyss.org/zh/floor-12-usage-rate" id="1130">
-        <title>原神深境螺旋使用率</title>
-      </bookmark>
-      <bookmark href="https://paimon.moe/" id="1131">
-        <title>原石抽卡</title>
-      </bookmark>
-      <bookmark href="https://cocogoat.work/achievement" id="1132">
-        <title>椰羊cocogoat</title>
-      </bookmark>
-      <bookmark href="https://webstatic.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&amp;lang=zh-cn#/map/2?shown_types=2,3,154,158,190,316,319,338,340&amp;center=1288.04,-826.89&amp;zoom=-1.00" id="1133">
-        <title>大地图工具</title>
-      </bookmark>
-      <bookmark href="https://mona-uranai.com/" id="1134">
-        <title>莫娜占卜铺</title>
-      </bookmark>
-      <bookmark href="https://genshincalc.kchlu.com/" id="1135">
-        <title>原神伤害可视化计算器</title>
-      </bookmark>
-      <bookmark href="https://genshin.mingyulab.com/artifact_set_compare/artifact_set_compare" id="1136">
-        <title>原魔计算器</title>
-      </bookmark>
-      <bookmark href="https://feixiaoqiu.com/" id="1137">
-        <title>非小酋</title>
-      </bookmark>
-    </folder>
-    <folder id="1089">
-      <title>Other</title>
-      <bookmark href="https://theporndude.com/zh" id="1138">
-        <title>Porn Dude</title>
-      </bookmark>
-      <bookmark href="https://zhuanlan.zhihu.com/p/441414230" id="1139">
-        <title>闲谈圣少女及其作品</title>
-      </bookmark>
-      <bookmark href="https://www.patreon.com/UnderTheWitch/posts" id="1140">
-        <title>NumericGazer</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://sway.office.com/1ESaLEE3x47BTgZC" id="1090">
-      <title>switch520</title>
-    </bookmark>
-    <bookmark href="https://gamepad-tester.com/" id="1091">
-      <title>手把</title>
-    </bookmark>
-  </folder>
-  <folder id="1076">
-    <title>mmd</title>
-    <bookmark href="https://blender.kim/" id="1092">
-      <title>魔酷网</title>
-    </bookmark>
-    <bookmark href="https://www.aplaybox.com/" id="1093">
-      <title>模之屋</title>
-    </bookmark>
-    <bookmark href="https://w.atwiki.jp/vpvpwiki/pages/272.html#id_3701549e" id="1094">
-      <title>MME</title>
-    </bookmark>
-    <bookmark href="https://riyutool.com/" id="1095">
-      <title>日语在线翻译</title>
-    </bookmark>
-    <bookmark href="https://www.mikuclub.cc/mmd" id="1096">
-      <title>初音社</title>
-    </bookmark>
-    <bookmark href="https://www.bilibili.com/read/cv7185607" id="1097">
-      <title>新人向MMD资源较详细全面索引</title>
-    </bookmark>
-    <bookmark href="https://bowlroll.net/r18/file/index" id="1098">
-      <title>BowlRoll</title>
-    </bookmark>
-    <bookmark href="https://3d.nicovideo.jp/" id="1099">
-      <title>ニコニ立体</title>
-    </bookmark>
-    <bookmark href="https://wenku.baidu.com/view/1cbca3a8cf22bcd126fff705cc17552707225e2c.html" id="1100">
-      <title>《MMD模型改模、建模、表情、修复教程》</title>
-    </bookmark>
-  </folder>
 </folder>
 </xbel>
