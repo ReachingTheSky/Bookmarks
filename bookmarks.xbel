@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2127: for Floccus bookmark sync browser extension -->
+<!--- highestId :2174: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -26,9 +26,6 @@
 </bookmark>
 <bookmark href="https://www.52pojie.cn/" id="10">
   <title></title>
-</bookmark>
-<bookmark href="https://ping0.cc/" id="479">
-  <title>ip</title>
 </bookmark>
 <folder id="1639">
   <title>Study</title>
@@ -769,6 +766,9 @@
   </folder>
   <folder id="1675">
     <title>打码</title>
+    <bookmark href="https://2captcha.com/zh/enterpage#recognition" id="2128">
+      <title>2captcha</title>
+    </bookmark>
     <bookmark href="https://m.freebuf.com/articles/web/238701.html" id="1832">
       <title>FreeBuf</title>
     </bookmark>
@@ -830,6 +830,9 @@
 </folder>
 <folder id="1642">
   <title>Email</title>
+  <bookmark href="http://douhao.online/" id="2129">
+    <title>邮箱购买</title>
+  </bookmark>
   <bookmark href="http://cname.mail.nyist.edu.cn/Home/Verify" id="1677">
     <title>onetwo@nyist.edu.cn</title>
   </bookmark>
@@ -1034,6 +1037,120 @@
       <title>小众软件论坛</title>
     </bookmark>
   </folder>
+  <folder id="2138">
+    <title>游戏</title>
+    <folder id="2148">
+      <title>第七史诗</title>
+      <bookmark href="https://automan.joyqoo.com/epic7/gvg" id="2153">
+        <title>拉斯助手</title>
+      </bookmark>
+      <bookmark href="https://bbs.nga.cn/read.php?tid=37637980&amp;page=1&amp;rand=411" id="2154">
+        <title>第七史诗配装器</title>
+      </bookmark>
+      <bookmark href="https://icetail1.github.io/ICE-Calculate/e7-damage-calc/zh/" id="2155">
+        <title>第七史诗 伤害计算器ICE修改版</title>
+      </bookmark>
+      <bookmark href="https://word.yszso.com:8243/gongzuoshi" id="2156">
+        <title>第七精灵exe</title>
+      </bookmark>
+      <bookmark href="https://wiki.biligame.com/epic7/%E9%A6%96%E9%A1%B5" id="2157">
+        <title>e7bWIKI</title>
+      </bookmark>
+      <bookmark href="https://epic7.gamekee.com/" id="2158">
+        <title>e7wiki</title>
+      </bookmark>
+      <bookmark href="https://ceciliabot.github.io/#/" id="2159">
+        <title>CeciliaBot</title>
+      </bookmark>
+      <bookmark href="https://fribbels.github.io/e7/hero-library.html?hero=Savior+Adin" id="2160">
+        <title>e7Hero Library</title>
+      </bookmark>
+      <bookmark href="https://fribbels.github.io/e7/gw-meta.html" id="2161">
+        <title>Fribbels GW Meta Tracker</title>
+      </bookmark>
+    </folder>
+    <folder id="2149">
+      <title>原神</title>
+      <bookmark href="https://ngabbs.com/read.php?tid=28464477&amp;rand=879" id="2162">
+        <title>原神队伍伤害</title>
+      </bookmark>
+      <bookmark href="https://bbs.nga.cn/thread.php?fid=650" id="2163">
+        <title>原神-NGA</title>
+      </bookmark>
+      <bookmark href="https://spiralabyss.org/zh/floor-12-usage-rate" id="2164">
+        <title>原神深境螺旋使用率</title>
+      </bookmark>
+      <bookmark href="https://paimon.moe/" id="2165">
+        <title>原石抽卡</title>
+      </bookmark>
+      <bookmark href="https://cocogoat.work/achievement" id="2166">
+        <title>椰羊cocogoat</title>
+      </bookmark>
+      <bookmark href="https://webstatic.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&amp;lang=zh-cn#/map/2?shown_types=2,3,154,158,190,316,319,338,340&amp;center=1288.04,-826.89&amp;zoom=-1.00" id="2167">
+        <title>大地图工具</title>
+      </bookmark>
+      <bookmark href="https://mona-uranai.com/" id="2168">
+        <title>莫娜占卜铺</title>
+      </bookmark>
+      <bookmark href="https://genshincalc.kchlu.com/" id="2169">
+        <title>原神伤害可视化计算器</title>
+      </bookmark>
+      <bookmark href="https://genshin.mingyulab.com/artifact_set_compare/artifact_set_compare" id="2170">
+        <title>原魔计算器</title>
+      </bookmark>
+      <bookmark href="https://feixiaoqiu.com/" id="2171">
+        <title>非小酋</title>
+      </bookmark>
+    </folder>
+    <folder id="2150">
+      <title>Other</title>
+      <bookmark href="https://theporndude.com/zh" id="2172">
+        <title>Porn Dude</title>
+      </bookmark>
+      <bookmark href="https://zhuanlan.zhihu.com/p/441414230" id="2173">
+        <title>闲谈圣少女及其作品</title>
+      </bookmark>
+      <bookmark href="https://www.patreon.com/UnderTheWitch/posts" id="2174">
+        <title>NumericGazer</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://sway.office.com/1ESaLEE3x47BTgZC" id="2151">
+      <title>switch520</title>
+    </bookmark>
+    <bookmark href="https://gamepad-tester.com/" id="2152">
+      <title>手把</title>
+    </bookmark>
+  </folder>
+  <folder id="2137">
+    <title>mmd</title>
+    <bookmark href="https://blender.kim/" id="2139">
+      <title>魔酷网</title>
+    </bookmark>
+    <bookmark href="https://www.aplaybox.com/" id="2140">
+      <title>模之屋</title>
+    </bookmark>
+    <bookmark href="https://w.atwiki.jp/vpvpwiki/pages/272.html#id_3701549e" id="2141">
+      <title>MME</title>
+    </bookmark>
+    <bookmark href="https://riyutool.com/" id="2142">
+      <title>日语在线翻译</title>
+    </bookmark>
+    <bookmark href="https://www.mikuclub.cc/mmd" id="2143">
+      <title>初音社</title>
+    </bookmark>
+    <bookmark href="https://www.bilibili.com/read/cv7185607" id="2144">
+      <title>新人向MMD资源较详细全面索引</title>
+    </bookmark>
+    <bookmark href="https://bowlroll.net/r18/file/index" id="2145">
+      <title>BowlRoll</title>
+    </bookmark>
+    <bookmark href="https://3d.nicovideo.jp/" id="2146">
+      <title>ニコニ立体</title>
+    </bookmark>
+    <bookmark href="https://wenku.baidu.com/view/1cbca3a8cf22bcd126fff705cc17552707225e2c.html" id="2147">
+      <title>《MMD模型改模、建模、表情、修复教程》</title>
+    </bookmark>
+  </folder>
   <folder id="1700">
     <title>Other</title>
     <bookmark href="https://post.smzdm.com/p/a4pk5pr8/" id="1861">
@@ -1049,9 +1166,6 @@
 </folder>
 <folder id="1646">
   <title>VPS</title>
-  <bookmark href="https://nezha.bhhnas.xyz/" id="2126">
-    <title>ReachingTheSky</title>
-  </bookmark>
   <bookmark href="https://fofa.info/" id="1701">
     <title>FOFA网络搜索引擎</title>
   </bookmark>
@@ -1059,10 +1173,13 @@
     <title>Serv00</title>
   </bookmark>
   <bookmark href="https://116.196.83.50:11715/657f5632" id="1703">
-    <title>1panel-CN-JD</title>
+    <title>My Linux</title>
   </bookmark>
-  <bookmark href="https://panel.bhhnas.xyz/" id="1704">
-    <title>1panel-US-CCB</title>
+  <bookmark href="http://38.175.203.146:21959/" id="2130">
+    <title>1Panel</title>
+  </bookmark>
+  <bookmark href="https://192.168.0.111:5001/?_sid=&amp;launchApp=SYNO.SDS.StorageManager.Instance&amp;SynoToken=a3BEvQGXXmLDE" id="2131">
+    <title>MyNas</title>
   </bookmark>
   <bookmark href="https://virt.crunchbits.com/dashboard" id="1706">
     <title>Crunchbits控制台</title>
@@ -1219,9 +1336,6 @@
   </folder>
   <folder id="1712">
     <title>公益NewApi</title>
-    <bookmark href="https://api.crond.dev/token" id="1868">
-      <title>DEV API</title>
-    </bookmark>
     <bookmark href="https://demo.voapi.top/token" id="1869">
       <title>VoAPI</title>
     </bookmark>
@@ -1342,11 +1456,11 @@
   </folder>
   <folder id="1718">
     <title>Check-inAvailable</title>
-    <bookmark href="https://api.ephone.ai/login" id="1903">
-      <title>益丰</title>
+    <bookmark href="https://api.ephone.ai/" id="2132">
+      <title>API</title>
     </bookmark>
-    <bookmark href="https://api.gptoai.cc/login" id="1904">
-      <title>Shawn</title>
+    <bookmark href="https://api.gptoai.cc/" id="2133">
+      <title>Shawn API</title>
     </bookmark>
     <bookmark href="https://afdian.net/a/bling_yshs" id="1905">
       <title>Ai爱发电</title>
@@ -1433,14 +1547,11 @@
   <bookmark href="https://api.bhhnas.xyz/" id="2073">
     <title>New API</title>
   </bookmark>
-  <bookmark href="https://open.bhhnas.xyz/" id="2074">
-    <title>Open WebUI</title>
-  </bookmark>
   <bookmark href="https://aistudio.google.com/prompts/new_chat" id="2075">
     <title>Google AI Studio</title>
   </bookmark>
-  <bookmark href="https://console.x.ai/team/e92b30b9-2fcc-45cb-aef8-53a021f367df" id="2127">
-    <title>xAI</title>
+  <bookmark href="http://38.175.203.146:3006/" id="2134">
+    <title>Open WebUI</title>
   </bookmark>
   <bookmark href="http://116.196.83.50:3100/chat?session=inbox" id="2076">
     <title>LobeChat</title>
@@ -1457,8 +1568,11 @@
   <bookmark href="https://www.coze.com/" id="2080">
     <title>Coze</title>
   </bookmark>
-  <bookmark href="https://livebench.ai/#/?slider=2" id="2081">
-    <title>LiveBench</title>
+  <bookmark href="https://arena.lmsys.org/" id="2135">
+    <title>AI竞技场</title>
+  </bookmark>
+  <bookmark href="https://aurorai.cn/chat/#/" id="2136">
+    <title>Aurora.ai</title>
   </bookmark>
   <bookmark href="https://openart.ai/workflows/home" id="2109">
     <title>ComfyUI Workflows</title>
@@ -1494,4 +1608,7 @@
     <title>Camunda李新的博客</title>
   </bookmark>
 </folder>
+<bookmark href="https://ping0.cc/" id="479">
+  <title>ip</title>
+</bookmark>
 </xbel>
