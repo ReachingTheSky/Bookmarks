@@ -1316,6 +1316,9 @@
       <title>HuggingFace</title>
     </bookmark>
   </folder>
+  <bookmark href="https://panel.bhhnas.xyz/" id="1279">
+    <title>1Panel</title>
+  </bookmark>
 </folder>
 <folder id="37">
   <title>Ai</title>
@@ -1720,7 +1723,7 @@
         <title>2023技术年货</title>
       </bookmark>
       <bookmark href="https://pdai.tech/" id="1449">
-        <title> Java 全栈知识体系</title>
+        <title>Java 全栈知识体系</title>
       </bookmark>
       <bookmark href="https://bugstack.cn/" id="1450">
         <title>bugstack 虫洞栈</title>
@@ -1815,7 +1818,7 @@
           <title>对象之间的赋值</title>
         </bookmark>
         <bookmark href="https://www.jianshu.com/p/6391566af05e" id="1516">
-          <title>HashSet 是如何保证不重复的 </title>
+          <title>HashSet 是如何保证不重复的</title>
         </bookmark>
         <bookmark href="http://blog.csdn.net/my_precious/article/details/53010232" id="1517">
           <title>数组，list，set互相转换</title>
@@ -2068,7 +2071,7 @@
         <title>SpringBoo+Mysql url正确写法</title>
       </bookmark>
       <bookmark href="https://zhuanlan.zhihu.com/p/89505750" id="1195">
-        <title>Ubuntu 18.04服务器Mysql主从(主主)复制 </title>
+        <title>Ubuntu 18.04服务器Mysql主从(主主)复制</title>
       </bookmark>
       <bookmark href="https://www.jianshu.com/p/647a596cb251" id="1196">
         <title>MySQL8.0.15安装教程</title>
@@ -2121,7 +2124,7 @@
           <title>Ubuntu 18.04 安装ElasticSearch</title>
         </bookmark>
         <bookmark href="https://blog.csdn.net/weixin_42603784/article/details/89962357" id="1330">
-          <title> ubuntu安装ik</title>
+          <title>ubuntu安装ik</title>
         </bookmark>
       </folder>
       <folder id="1202">
@@ -2142,10 +2145,10 @@
           <title>elasticsearch的坑,ERROR: [1] bootstrap checks failed [1]: the default discovery setting are...</title>
         </bookmark>
         <bookmark href="https://blog.csdn.net/qq_42570879/article/details/82862585" id="1336">
-          <title> CentOS7安装tomcat8</title>
+          <title>CentOS7安装tomcat8</title>
         </bookmark>
         <bookmark href="https://www.cnblogs.com/gaohanghang/p/12099614.html" id="1337">
-          <title>Kibana将语言设置为中文 </title>
+          <title>Kibana将语言设置为中文</title>
         </bookmark>
         <bookmark href="https://www.cnblogs.com/zhangchao512/p/9340382.html" id="1338">
           <title>超简单CentOS7 配置阿里云yum源</title>
@@ -2170,7 +2173,7 @@
         <title>Linux 无法建立ＳＳＬ连接</title>
       </bookmark>
       <bookmark href="https://blog.csdn.net/weixin_43300503/article/details/88684279" id="1207">
-        <title> elasticsearch启动过程中被自动killed</title>
+        <title>elasticsearch启动过程中被自动killed</title>
       </bookmark>
     </folder>
     <folder id="1115">
@@ -2476,7 +2479,7 @@
     <folder id="1257">
       <title>思源</title>
       <bookmark href="https://ld246.com/domain/siyuan" id="1372">
-        <title>思源笔记 </title>
+        <title>思源笔记</title>
       </bookmark>
       <bookmark href="https://ld246.com/article/1651909954399#%E5%AD%97%E4%BD%93" id="1373">
         <title>CSS 样式百科全书（标题篇）</title>
@@ -2573,7 +2576,7 @@
       <title>LINUX DO WIKI</title>
     </bookmark>
     <bookmark href="https://www.tenlonstudio.com/" id="1271">
-      <title>腾龙工作室 </title>
+      <title>腾龙工作室</title>
     </bookmark>
     <bookmark href="https://www.nite07.com/u/nite07" id="1272">
       <title>Nite07的小窝</title>
@@ -2665,9 +2668,6 @@
     <bookmark href="https://116.196.83.50:11715/657f5632" id="1278">
       <title>My Linux</title>
     </bookmark>
-    <bookmark href="https://panel.bhhnas.xyz/" id="1279">
-      <title>1Panel</title>
-    </bookmark>
     <bookmark href="https://192.168.0.111:5001/?_sid=&amp;launchApp=SYNO.SDS.StorageManager.Instance&amp;SynoToken=a3BEvQGXXmLDE" id="1280">
       <title>MyNas</title>
     </bookmark>
@@ -2719,7 +2719,7 @@
         <title>YkkCloud</title>
       </bookmark>
       <bookmark href="https://ikuuu.pw/user/node" id="1533">
-        <title> iKuuu</title>
+        <title>iKuuu</title>
       </bookmark>
       <bookmark href="https://love.52pokemon.cc/#/dashboard" id="1534">
         <title>宝可梦云加速</title>
