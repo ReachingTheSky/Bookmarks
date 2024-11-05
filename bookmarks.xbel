@@ -27,9 +27,6 @@
 <bookmark href="https://www.52pojie.cn/" id="10">
   <title></title>
 </bookmark>
-<bookmark href="https://ping0.cc/" id="479">
-  <title>ip</title>
-</bookmark>
 <folder id="1639">
   <title>Study</title>
   <folder id="1649">
@@ -1494,4 +1491,7 @@
     <title>Camunda李新的博客</title>
   </bookmark>
 </folder>
+<bookmark href="https://ping0.cc/" id="479">
+  <title>ip</title>
+</bookmark>
 </xbel>
