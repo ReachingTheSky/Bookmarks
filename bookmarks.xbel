@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2125: for Floccus bookmark sync browser extension -->
+<!--- highestId :2127: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -1049,6 +1049,9 @@
 </folder>
 <folder id="1646">
   <title>VPS</title>
+  <bookmark href="https://nezha.bhhnas.xyz/" id="2126">
+    <title>ReachingTheSky</title>
+  </bookmark>
   <bookmark href="https://fofa.info/" id="1701">
     <title>FOFA网络搜索引擎</title>
   </bookmark>
@@ -1056,13 +1059,10 @@
     <title>Serv00</title>
   </bookmark>
   <bookmark href="https://116.196.83.50:11715/657f5632" id="1703">
-    <title>My Linux</title>
+    <title>1panel-CN-JD</title>
   </bookmark>
   <bookmark href="https://panel.bhhnas.xyz/" id="1704">
-    <title>1Panel</title>
-  </bookmark>
-  <bookmark href="https://192.168.0.111:5001/?_sid=&amp;launchApp=SYNO.SDS.StorageManager.Instance&amp;SynoToken=a3BEvQGXXmLDE" id="1705">
-    <title>MyNas</title>
+    <title>1panel-US-CCB</title>
   </bookmark>
   <bookmark href="https://virt.crunchbits.com/dashboard" id="1706">
     <title>Crunchbits控制台</title>
@@ -1438,6 +1438,9 @@
   </bookmark>
   <bookmark href="https://aistudio.google.com/prompts/new_chat" id="2075">
     <title>Google AI Studio</title>
+  </bookmark>
+  <bookmark href="https://console.x.ai/team/e92b30b9-2fcc-45cb-aef8-53a021f367df" id="2127">
+    <title>xAI</title>
   </bookmark>
   <bookmark href="http://116.196.83.50:3100/chat?session=inbox" id="2076">
     <title>LobeChat</title>
