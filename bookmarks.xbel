@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1638: for Floccus bookmark sync browser extension -->
+<!--- highestId :2125: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -27,1588 +27,1468 @@
 <bookmark href="https://www.52pojie.cn/" id="10">
   <title></title>
 </bookmark>
-<folder id="11">
+<bookmark href="https://ping0.cc/" id="479">
+  <title>ip</title>
+</bookmark>
+<folder id="1639">
   <title>Study</title>
-  <folder id="13">
+  <folder id="1649">
     <title>书</title>
-    <bookmark href="https://www.zhihu.com/people/qianyugang/posts?page=5" id="39">
+    <bookmark href="https://www.zhihu.com/people/qianyugang/posts?page=5" id="1728">
       <title>书籍推荐</title>
     </bookmark>
-    <bookmark href="https://www.bookstack.cn/" id="40">
+    <bookmark href="https://www.bookstack.cn/" id="1729">
       <title>书栈网</title>
     </bookmark>
-    <bookmark href="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md" id="41">
+    <bookmark href="https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md" id="1730">
       <title>书-github</title>
     </bookmark>
   </folder>
-  <folder id="14">
+  <folder id="1650">
     <title>Alg</title>
-    <bookmark href="https://zerotrac.github.io/leetcode_problem_rating/#/" id="42">
+    <bookmark href="https://zerotrac.github.io/leetcode_problem_rating/#/" id="1731">
       <title>竞赛题目</title>
     </bookmark>
-    <bookmark href="https://www.jiuzhang.com/course/36" id="43">
+    <bookmark href="https://www.jiuzhang.com/course/36" id="1732">
       <title>dp</title>
     </bookmark>
-    <bookmark href="https://github.com/youngyangyang04/leetcode-master" id="44">
+    <bookmark href="https://github.com/youngyangyang04/leetcode-master" id="1733">
       <title>代码随想录</title>
     </bookmark>
-    <bookmark href="https://labuladong.github.io/algo/" id="45">
+    <bookmark href="https://labuladong.github.io/algo/" id="1734">
       <title>labuladong的算法小抄</title>
     </bookmark>
   </folder>
-  <folder id="15">
+  <folder id="1651">
     <title>学习视频</title>
-    <bookmark href="https://www.ukoou.com/" id="46">
+    <bookmark href="https://www.ukoou.com/" id="1735">
       <title>优库IT资源网</title>
     </bookmark>
-    <bookmark href="https://www.itspjc.com/" id="47">
+    <bookmark href="https://www.itspjc.com/" id="1736">
       <title>IT视频教程</title>
     </bookmark>
-    <bookmark href="https://www.666xit.com/" id="48">
+    <bookmark href="https://www.666xit.com/" id="1737">
       <title>666XIT</title>
     </bookmark>
   </folder>
-  <folder id="16">
+  <folder id="1652">
     <title>技术文章</title>
-    <bookmark href="https://blog.csdn.net/luomao2012/article/details/126082689" id="49">
+    <bookmark href="https://blog.csdn.net/luomao2012/article/details/126082689" id="1738">
       <title>大厂技术文章</title>
     </bookmark>
   </folder>
-  <folder id="17">
+  <folder id="1653">
     <title>St-Over</title>
-    <bookmark href="https://www.javajike.com/" id="50">
+    <bookmark href="https://www.javajike.com/" id="1739">
       <title>Java极客技术学习</title>
     </bookmark>
-    <bookmark href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Java" id="51">
+    <bookmark href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Java" id="1740">
       <title>github中文项目排行榜</title>
     </bookmark>
-    <bookmark href="https://www.infoq.cn/" id="52">
+    <bookmark href="https://www.infoq.cn/" id="1741">
       <title>InfoQ-极客邦</title>
     </bookmark>
-    <bookmark href="https://luckycurvec.gitbook.io/java-knowledge-architecture/" id="53">
+    <bookmark href="https://luckycurvec.gitbook.io/java-knowledge-architecture/" id="1742">
       <title>Java-Knowledge-Architecture</title>
     </bookmark>
-    <bookmark href="https://tech.meituan.com/" id="54">
+    <bookmark href="https://tech.meituan.com/" id="1743">
       <title>美团技术团队</title>
     </bookmark>
-    <bookmark href="https://zhuanlan.zhihu.com/p/68386214" id="55">
+    <bookmark href="https://zhuanlan.zhihu.com/p/68386214" id="1744">
       <title>全网最全的高质量博客与网站（国内篇）</title>
     </bookmark>
-    <bookmark href="https://coolshell.cn/" id="56">
+    <bookmark href="https://coolshell.cn/" id="1745">
       <title>酷壳</title>
     </bookmark>
-    <bookmark href="https://github.com/Snailclimb/JavaGuide" id="57">
+    <bookmark href="https://github.com/Snailclimb/JavaGuide" id="1746">
       <title>JavaGuide</title>
     </bookmark>
-    <bookmark href="https://github.com/CyC2018/CS-Notes" id="58">
+    <bookmark href="https://github.com/CyC2018/CS-Notes" id="1747">
       <title>CS-Notes</title>
     </bookmark>
-    <bookmark href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#Java" id="59">
+    <bookmark href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#Java" id="1748">
       <title>总榜</title>
     </bookmark>
-    <bookmark href="https://www.yuque.com/snailclimb/dr6cvl/nt5qc467p3t6s13k?singleDoc#9415a826" id="346">
+    <bookmark href="https://www.yuque.com/snailclimb/dr6cvl/nt5qc467p3t6s13k?singleDoc#9415a826" id="1986">
       <title>2023技术年货</title>
     </bookmark>
-    <bookmark href="https://pdai.tech/" id="347">
+    <bookmark href="https://pdai.tech/" id="1987">
       <title>Java 全栈知识体系</title>
     </bookmark>
-    <bookmark href="https://bugstack.cn/" id="348">
+    <bookmark href="https://bugstack.cn/" id="1988">
       <title>bugstack 虫洞栈</title>
     </bookmark>
   </folder>
-  <folder id="18">
+  <folder id="1654">
     <title>St-Source</title>
-    <bookmark href="http://www.coderead.cn/" id="60">
+    <bookmark href="http://www.coderead.cn/" id="1749">
       <title>源码阅读网</title>
     </bookmark>
-    <bookmark href="http://www.iocoder.cn/?bilibili&amp;spring" id="61">
+    <bookmark href="http://www.iocoder.cn/?bilibili&amp;spring" id="1750">
       <title>芋道源码 —— 纯源码解析博客</title>
     </bookmark>
-    <bookmark href="https://javadoop.com/" id="62">
+    <bookmark href="https://javadoop.com/" id="1751">
       <title>源码分析-个人博客1</title>
     </bookmark>
-    <bookmark href="http://www.zhenchao.io/" id="63">
+    <bookmark href="http://www.zhenchao.io/" id="1752">
       <title>源码分析-个人博客2</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/qq_43600166/article/details/127172260" id="64">
+    <bookmark href="https://blog.csdn.net/qq_43600166/article/details/127172260" id="1753">
       <title>MVC源码分析</title>
     </bookmark>
   </folder>
-  <folder id="19">
+  <folder id="1655">
     <title>St-Other</title>
-    <bookmark href="https://www.zhihu.com/question/457675162" id="65">
+    <bookmark href="https://www.zhihu.com/question/457675162" id="1754">
       <title>如何学英语</title>
     </bookmark>
   </folder>
-  <bookmark href="https://roadmap.sh/backend" id="20">
+  <bookmark href="https://roadmap.sh/backend" id="1656">
     <title>后端路线（验证所学）</title>
   </bookmark>
 </folder>
-<folder id="12">
+<folder id="1640">
   <title>Question</title>
-  <folder id="21">
+  <folder id="1657">
     <title>JAVA</title>
-    <folder id="66">
+    <folder id="1755">
       <title>ssm食堂项目 问题集合</title>
-      <bookmark href="http://blog.csdn.net/sswqzx/article/details/84195043" id="191">
+      <bookmark href="http://blog.csdn.net/sswqzx/article/details/84195043" id="1920">
         <title>@requesParam注解</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_26465035/article/details/82720519" id="192">
+      <bookmark href="http://blog.csdn.net/qq_26465035/article/details/82720519" id="1921">
         <title>xml转义单词</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/520gqk/p/12168753.html" id="193">
+      <bookmark href="http://cnblogs.com/520gqk/p/12168753.html" id="1922">
         <title>springMvc获取数据的方式</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/justlpf/article/details/80984906" id="194">
+      <bookmark href="http://blog.csdn.net/justlpf/article/details/80984906" id="1923">
         <title>springMvc form标签</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/lyb0103/p/10690165.html" id="195">
+      <bookmark href="http://cnblogs.com/lyb0103/p/10690165.html" id="1924">
         <title>获取请求的目标网址</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/ceshi2016/p/7574005.html" id="196">
+      <bookmark href="http://cnblogs.com/ceshi2016/p/7574005.html" id="1925">
         <title>String删除空格和最后一个字符(有大小写错误)</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/baiduligang/p/4247164.html" id="197">
+      <bookmark href="http://cnblogs.com/baiduligang/p/4247164.html" id="1926">
         <title>springMvc深入了解</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/weixin_42935902/article/details/102810900" id="198">
+      <bookmark href="https://blog.csdn.net/weixin_42935902/article/details/102810900" id="1927">
         <title>springmvc如何把值放到session域  @SessionAttributes注解</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_39959061/article/details/79867899?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="199">
+      <bookmark href="http://blog.csdn.net/qq_39959061/article/details/79867899?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="1928">
         <title>String与String[]互相转换 截取String特殊符号左右String</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/Xiewanru/article/details/84333752" id="200">
+      <bookmark href="http://blog.csdn.net/Xiewanru/article/details/84333752" id="1929">
         <title>mysql三表联查</title>
       </bookmark>
-      <bookmark href="http://pianshen.com/article/2819321386/" id="406">
+      <bookmark href="http://pianshen.com/article/2819321386/" id="2034">
         <title>GET POST DELETE PUT 之间转换</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/wo8451401/article/details/78666685" id="407">
+      <bookmark href="http://blog.csdn.net/wo8451401/article/details/78666685" id="2035">
         <title>将window.location传送的GET请求改为其他</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_40646143/article/details/79974025" id="408">
+      <bookmark href="http://blog.csdn.net/qq_40646143/article/details/79974025" id="2036">
         <title>修改js中的input的value(设置请求方式)</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/jk_wzw/article/details/79768147" id="409">
+      <bookmark href="http://blog.csdn.net/jk_wzw/article/details/79768147" id="2037">
         <title>String[]与list相互转换</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_36501591/article/details/80652009" id="410">
+      <bookmark href="http://blog.csdn.net/qq_36501591/article/details/80652009" id="2038">
         <title>controller获取请求来源地址</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/summeranhx/article/details/81502746" id="411">
+      <bookmark href="http://blog.csdn.net/summeranhx/article/details/81502746" id="2039">
         <title>mybatis批量插入</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_16272049/article/details/52131312" id="412">
+      <bookmark href="http://blog.csdn.net/qq_16272049/article/details/52131312" id="2040">
         <title>el表达式获取第一组数据</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/Interesting_Talent/article/details/82461309" id="413">
+      <bookmark href="http://blog.csdn.net/Interesting_Talent/article/details/82461309" id="2041">
         <title>对象之间的赋值</title>
       </bookmark>
-      <bookmark href="https://www.jianshu.com/p/6391566af05e" id="414">
+      <bookmark href="https://www.jianshu.com/p/6391566af05e" id="2042">
         <title>HashSet 是如何保证不重复的</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/my_precious/article/details/53010232" id="415">
+      <bookmark href="http://blog.csdn.net/my_precious/article/details/53010232" id="2043">
         <title>数组，list，set互相转换</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/djgs/p/3691979.html" id="459">
+      <bookmark href="http://cnblogs.com/djgs/p/3691979.html" id="2052">
         <title>js获取下拉框的部分属性</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/jpfss/p/8709211.html" id="460">
+      <bookmark href="http://cnblogs.com/jpfss/p/8709211.html" id="2053">
         <title>从list集合中截取指定下标数据</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/konglongaa/article/details/72763945" id="461">
+      <bookmark href="http://blog.csdn.net/konglongaa/article/details/72763945" id="2054">
         <title>list替换</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/sinat_39308893/article/details/81035210" id="462">
+      <bookmark href="http://blog.csdn.net/sinat_39308893/article/details/81035210" id="2055">
         <title>判断list集合是否为空</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_31807385/article/details/82670243" id="463">
+      <bookmark href="http://blog.csdn.net/qq_31807385/article/details/82670243" id="2056">
         <title>java获取随机数(俩种方式)</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/hafiz/p/5498936.html" id="464">
+      <bookmark href="http://cnblogs.com/hafiz/p/5498936.html" id="2057">
         <title>springMvc后台实现接受list数据</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/henuyuxiang/p/6592813.html" id="465">
+      <bookmark href="http://cnblogs.com/henuyuxiang/p/6592813.html" id="2058">
         <title>mapper配置多个路径</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/hlx20080808/article/details/77148916?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="466">
+      <bookmark href="http://blog.csdn.net/hlx20080808/article/details/77148916?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="2059">
         <title>报错：找不到get方法解决办法</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/jpfss/p/9517736.html" id="467">
+      <bookmark href="http://cnblogs.com/jpfss/p/9517736.html" id="2060">
         <title>ajax实现页面跳转</title>
       </bookmark>
-      <bookmark href="http://zhidao.baidu.com/question/589358460787718325.html" id="468">
+      <bookmark href="http://zhidao.baidu.com/question/589358460787718325.html" id="2061">
         <title>jq获取class和id</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/liuyuanjiang109/article/details/78972644" id="480">
+      <bookmark href="http://blog.csdn.net/liuyuanjiang109/article/details/78972644" id="2082">
         <title>ajax发送PUT和DELETE请求</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/a10039/article/details/80537553?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="481">
+      <bookmark href="http://blog.csdn.net/a10039/article/details/80537553?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="2083">
         <title>Double类保存指定位数</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/allWords/article/details/78357307?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="482">
+      <bookmark href="http://blog.csdn.net/allWords/article/details/78357307?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="2084">
         <title>sql利用函数查找几个不同时间的数据</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/c_staunch/article/details/82706017" id="483">
+      <bookmark href="http://blog.csdn.net/c_staunch/article/details/82706017" id="2085">
         <title>string中是否包含某个字段，所在的索引</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/lanceblog/p/4016166.html" id="484">
+      <bookmark href="http://cnblogs.com/lanceblog/p/4016166.html" id="2086">
         <title>js设置input为不可选中，点击</title>
       </bookmark>
-      <bookmark href="http://zhidao.baidu.com/question/484078687.html" id="485">
+      <bookmark href="http://zhidao.baidu.com/question/484078687.html" id="2087">
         <title>a标签没有value属性，但是jq可以获取value</title>
       </bookmark>
-      <bookmark href="http://runoob.com/jquery/jq-event-target.html" id="486">
+      <bookmark href="http://runoob.com/jquery/jq-event-target.html" id="2088">
         <title>获取触发事件的源</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/momozjm/p/6098377.html" id="487">
+      <bookmark href="http://cnblogs.com/momozjm/p/6098377.html" id="2089">
         <title>jq添加事件到动态生成的dom</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/goloving/p/7183803.html" id="488">
+      <bookmark href="http://cnblogs.com/goloving/p/7183803.html" id="2090">
         <title>jq找相关节点</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/tangpeng2018/article/details/81462717" id="489">
+      <bookmark href="http://blog.csdn.net/tangpeng2018/article/details/81462717" id="2091">
         <title>js判断数据是否为空</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/liang_zhaocong/article/details/89920810" id="515">
+      <bookmark href="https://blog.csdn.net/liang_zhaocong/article/details/89920810" id="2112">
         <title>ajax页面局部定时刷新--setInterval</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/qq_45242696/article/details/99686338" id="516">
+      <bookmark href="http://blog.csdn.net/qq_45242696/article/details/99686338" id="2113">
         <title>设置Date格式</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/xrq730/p/4865416.html" id="517">
+      <bookmark href="http://cnblogs.com/xrq730/p/4865416.html" id="2114">
         <title>java优化</title>
       </bookmark>
-      <bookmark href="http://zhidao.baidu.com/question/203376727.html" id="518">
+      <bookmark href="http://zhidao.baidu.com/question/203376727.html" id="2115">
         <title>sql DATATIME属性精确到3ms</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/huanghuanghui/p/9253079.html" id="519">
+      <bookmark href="http://cnblogs.com/huanghuanghui/p/9253079.html" id="2116">
         <title>从list对象集合中取出一个属性集合</title>
       </bookmark>
-      <bookmark href="http://bbs.csdn.net/topics/391027824" id="520">
+      <bookmark href="http://bbs.csdn.net/topics/391027824" id="2117">
         <title>取消页面回退某个页面</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/abcshj/article/details/78455620?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="521">
+      <bookmark href="https://blog.csdn.net/abcshj/article/details/78455620?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="2118">
         <title>页面回退实现刷新</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/bgwhite/p/10000230.html" id="522">
+      <bookmark href="http://cnblogs.com/bgwhite/p/10000230.html" id="2119">
         <title>js中对于字符串的操作</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/hei_guolanfang/article/details/79868932?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="523">
+      <bookmark href="http://blog.csdn.net/hei_guolanfang/article/details/79868932?depth_1-utm_source=distribute.pc_relevant.none-task&amp;utm_source=distribute.pc_relevant.none-task" id="2120">
         <title>filter不拦截指定路劲</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/sxdcgaq8080/p/9779375.html" id="524">
+      <bookmark href="http://cnblogs.com/sxdcgaq8080/p/9779375.html" id="2121">
         <title>创建指定长度的list（可以使用set）</title>
       </bookmark>
     </folder>
-    <folder id="67">
+    <folder id="1756">
       <title>JVM</title>
-      <bookmark href="https://blog.csdn.net/woaixiaoyu520/article/details/77451050" id="201">
+      <bookmark href="https://blog.csdn.net/woaixiaoyu520/article/details/77451050" id="1930">
         <title>Java访问控制修饰符与继承</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/Yan_yuhan/article/details/52420227" id="202">
+      <bookmark href="https://blog.csdn.net/Yan_yuhan/article/details/52420227" id="1931">
         <title>静态加载顺序</title>
       </bookmark>
     </folder>
-    <folder id="68">
+    <folder id="1757">
       <title>JUC</title>
-      <bookmark href="https://separator.mayastudios.com/index.php?t=horz" id="203">
+      <bookmark href="https://separator.mayastudios.com/index.php?t=horz" id="1932">
         <title>───synchronized锁升级───</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/tongdanping/article/details/79647337" id="204">
+      <bookmark href="https://blog.csdn.net/tongdanping/article/details/79647337" id="1933">
         <title>Synchronized关键字和锁升级</title>
       </bookmark>
-      <bookmark href="https://www.jianshu.com/p/d61f294ac1a6" id="205">
+      <bookmark href="https://www.jianshu.com/p/d61f294ac1a6" id="1934">
         <title>synchronized四种锁状态的升级</title>
       </bookmark>
     </folder>
-    <folder id="69">
+    <folder id="1758">
       <title>JavaWeb</title>
-      <bookmark href="https://www.cnblogs.com/lihanxiang/p/8475548.html" id="206">
+      <bookmark href="https://www.cnblogs.com/lihanxiang/p/8475548.html" id="1935">
         <title>DbUtils入门之QueryRunner</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/qq_31908651/article/details/81938048" id="207">
+      <bookmark href="https://blog.csdn.net/qq_31908651/article/details/81938048" id="1936">
         <title>idea中jsp被编译后的class与java文件在哪</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/aabbcc/p/5084752.html" id="208">
+      <bookmark href="https://www.cnblogs.com/aabbcc/p/5084752.html" id="1937">
         <title>JAVA中request.getParameterMap()用法</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/henulwj/article/details/8961876" id="209">
+      <bookmark href="http://blog.csdn.net/henulwj/article/details/8961876" id="1938">
         <title>tomcat的CATALINA_HOME</title>
       </bookmark>
     </folder>
-    <bookmark href="https://blog.csdn.net/u010442302/article/details/52052091" id="70">
+    <bookmark href="https://blog.csdn.net/u010442302/article/details/52052091" id="1759">
       <title>Java static作用及加载顺序 - bin的主栏 - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/xzx4959/article/details/83620085" id="71">
+    <bookmark href="https://blog.csdn.net/xzx4959/article/details/83620085" id="1760">
       <title>(1条消息)Idea 右键无Generate和Run as... - Martin的博客 - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/jameskaron/article/details/84923954" id="72">
+    <bookmark href="https://blog.csdn.net/jameskaron/article/details/84923954" id="1761">
       <title>[Java]java子类中如何访问和修改父类成员 - jameskaron的专栏 - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://www.jianshu.com/p/c7f47de2ee80" id="73">
+    <bookmark href="https://www.jianshu.com/p/c7f47de2ee80" id="1762">
       <title>Java常量池理解与总结 - 简书</title>
     </bookmark>
-    <bookmark href="https://yang7551735.iteye.com/blog/465779" id="74">
+    <bookmark href="https://yang7551735.iteye.com/blog/465779" id="1763">
       <title>java内存管理总结（一） - - ITeye博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/zmissm/article/details/44454241" id="75">
+    <bookmark href="https://blog.csdn.net/zmissm/article/details/44454241" id="1764">
       <title>Java数组及引用类型内存分配 - Android Explorer - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/focusChen/articles/2497768.html" id="349">
+    <bookmark href="https://www.cnblogs.com/focusChen/articles/2497768.html" id="1989">
       <title>JAVA 对象引用，以及对象赋值 - 飘来荡去。 - 博客园</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/weixin_40216444/article/details/82794019#commentBox" id="350">
+    <bookmark href="https://blog.csdn.net/weixin_40216444/article/details/82794019#commentBox" id="1990">
       <title>(1条消息)Map对象中的keyset()、entryset()和Map.Entry - weixin_40216444的博客 - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/qq_21808961/article/details/80376732" id="351">
+    <bookmark href="https://blog.csdn.net/qq_21808961/article/details/80376732" id="1991">
       <title>(1条消息)Java反射 Class类常用方法详解 - 小蓝的博客 - CSDN博客</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/gczmn/p/9855078.html" id="352">
+    <bookmark href="https://www.cnblogs.com/gczmn/p/9855078.html" id="1992">
       <title>java 对象属性复制,将一个对象的属性值赋值给另一个对象, 属性名需要相同 - 弓长张&amp;木子李 - 博客园</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/qq_32588349/article/details/51461182" id="353">
+    <bookmark href="http://blog.csdn.net/qq_32588349/article/details/51461182" id="1993">
       <title>maven</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/weixin_37601546/article/details/88623530" id="354">
+    <bookmark href="http://blog.csdn.net/weixin_37601546/article/details/88623530" id="1994">
       <title>jdk1.8安装</title>
     </bookmark>
-    <bookmark href="http://jb51.net/softjc/450357.html" id="453">
+    <bookmark href="http://jb51.net/softjc/450357.html" id="2044">
       <title>Eclipse中Web项目出现感叹或红叉修改方案</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/JusterDu/article/details/52042279" id="454">
+    <bookmark href="http://blog.csdn.net/JusterDu/article/details/52042279" id="2045">
       <title>java种接口</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/weixin_43970743/article/details/84936379" id="455">
+    <bookmark href="http://blog.csdn.net/weixin_43970743/article/details/84936379" id="2046">
       <title>ecplise导入项目并进行配置</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/xue2xue/article/details/81449573" id="456">
+    <bookmark href="http://blog.csdn.net/xue2xue/article/details/81449573" id="2047">
       <title>将web项目打包为war包，并部署到tomcat</title>
     </bookmark>
-    <bookmark href="http://cnblogs.com/yysbolg/p/10642432.html" id="457">
+    <bookmark href="http://cnblogs.com/yysbolg/p/10642432.html" id="2048">
       <title>加与不加@RequestParam</title>
     </bookmark>
-    <bookmark href="https://www.jianshu.com/p/c1e58529c2e5" id="458">
+    <bookmark href="https://www.jianshu.com/p/c1e58529c2e5" id="2049">
       <title>超简单地理解Thread,ThreadLocalMap,ThreadLocal(线程本地变量)之间的关系----讲仁话学java系列 - 简书</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/Jasmine_lh/article/details/71436620" id="471">
+    <bookmark href="https://blog.csdn.net/Jasmine_lh/article/details/71436620" id="2062">
       <title>面向接口的好处</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/singlecodeworld/p/9887926.html" id="472">
+    <bookmark href="https://www.cnblogs.com/singlecodeworld/p/9887926.html" id="2063">
       <title>java枚举常见用法 - 摆渡·人 - 博客园</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/mynamepg/article/details/79414580" id="473">
+    <bookmark href="https://blog.csdn.net/mynamepg/article/details/79414580" id="2064">
       <title>idea使用mybatis-generator插件自动生成代码</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/qq_33036061/article/details/100831244?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-5&amp;spm=1001.2101.3001.4242" id="474">
+    <bookmark href="https://blog.csdn.net/qq_33036061/article/details/100831244?utm_medium=distribute.pc_relevant.none-task-blog-baidulandingword-5&amp;spm=1001.2101.3001.4242" id="2065">
       <title>(2条消息)@Bean 注解全解析_love_watermelon的博客-CSDN博客_@bean</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/lianghecai52171314/article/details/105637251" id="475">
+    <bookmark href="https://blog.csdn.net/lianghecai52171314/article/details/105637251" id="2066">
       <title>(2条消息) JRebel插件使用详解_哈-CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/chenguangchun1993/article/details/79557771?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control" id="476">
+    <bookmark href="https://blog.csdn.net/chenguangchun1993/article/details/79557771?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.control" id="2067">
       <title>idea+jar包依赖</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/weixin_33828101/article/details/88040781" id="490">
+    <bookmark href="https://blog.csdn.net/weixin_33828101/article/details/88040781" id="2092">
       <title>(3条消息)swagger使用总结_weixin_33828101的博客-CSDN博客_swagger给什么东西给前端</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/u014042066/article/details/103658628" id="491">
+    <bookmark href="https://blog.csdn.net/u014042066/article/details/103658628" id="2093">
       <title>你不知道lambda的秘密和陷阱_前往JAVA架构的路上-CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/xx123698/article/details/106993557/" id="492">
+    <bookmark href="https://blog.csdn.net/xx123698/article/details/106993557/" id="2094">
       <title>ConcurrentHashmap(1.8)get操作——为什么它不需要加锁呢_进击30K的专栏-CSDN博客_concurrenthashmap get不加锁</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/q707929772/article/details/111188457" id="507">
+    <bookmark href="https://blog.csdn.net/q707929772/article/details/111188457" id="2101">
       <title>全面吃透ConcurrentHashMap_q707929772的博客-CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/u013066244/article/details/87898187" id="508">
+    <bookmark href="https://blog.csdn.net/u013066244/article/details/87898187" id="2102">
       <title>Java线程池ThreadPoolExecutor中execute()方法原理_山鬼谣的专栏-CSDN博客</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/yannqi/article/details/80847354" id="509">
+    <bookmark href="https://blog.csdn.net/yannqi/article/details/80847354" id="2103">
       <title>2020年支持java8的Java反编译工具汇总_yannqi的专栏-CSDN博客_java反编译</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/crazymakercircle/p/9824148.html" id="510">
+    <bookmark href="https://www.cnblogs.com/crazymakercircle/p/9824148.html" id="2104">
       <title>Java类加载器( 死磕9)</title>
     </bookmark>
   </folder>
-  <folder id="22">
+  <folder id="1658">
     <title>Mysql</title>
-    <bookmark href="https://zhuanlan.zhihu.com/p/58853966" id="76">
+    <bookmark href="https://zhuanlan.zhihu.com/p/58853966" id="1765">
       <title>一千行 MySQL 学习笔记 - 知乎</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/plg17/article/details/78758593" id="77">
+    <bookmark href="https://blog.csdn.net/plg17/article/details/78758593" id="1766">
       <title>图解MySQL 内连接、外连接、左连接、右连接、全连接……太多了</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/hello_world_qwp/article/details/79551789" id="78">
+    <bookmark href="http://blog.csdn.net/hello_world_qwp/article/details/79551789" id="1767">
       <title>mysql修改密码策略</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/weixin_43395911/article/details/99702121?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1" id="79">
+    <bookmark href="http://blog.csdn.net/weixin_43395911/article/details/99702121?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1" id="1768">
       <title>mysql详细安装</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/Just_learn_more/article/details/91385467" id="80">
+    <bookmark href="https://blog.csdn.net/Just_learn_more/article/details/91385467" id="1769">
       <title>Ubuntu18.04下MySQL5.7数据库不能输入中文</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/weixin_41238134/article/details/99707670" id="81">
+    <bookmark href="http://blog.csdn.net/weixin_41238134/article/details/99707670" id="1770">
       <title>mysql修改密码强度</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/mr_hui_/article/details/88878836" id="82">
+    <bookmark href="https://blog.csdn.net/mr_hui_/article/details/88878836" id="1771">
       <title>远程访问ubuntu的mysql（安装不看）</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/qq_42528769/article/details/107512864" id="83">
+    <bookmark href="https://blog.csdn.net/qq_42528769/article/details/107512864" id="1772">
       <title>SpringBoo+Mysql url正确写法</title>
     </bookmark>
-    <bookmark href="https://zhuanlan.zhihu.com/p/89505750" id="84">
+    <bookmark href="https://zhuanlan.zhihu.com/p/89505750" id="1773">
       <title>Ubuntu 18.04服务器Mysql主从(主主)复制</title>
     </bookmark>
-    <bookmark href="https://www.jianshu.com/p/647a596cb251" id="85">
+    <bookmark href="https://www.jianshu.com/p/647a596cb251" id="1774">
       <title>MySQL8.0.15安装教程</title>
     </bookmark>
-    <bookmark href="https://mp.weixin.qq.com/s/A5gNVXMNE-iIlY3oofXtLw" id="355">
+    <bookmark href="https://mp.weixin.qq.com/s/A5gNVXMNE-iIlY3oofXtLw" id="1995">
       <title>换一个角度看 B+ 树</title>
     </bookmark>
   </folder>
-  <folder id="23">
+  <folder id="1659">
     <title>Redis</title>
-    <bookmark href="https://blog.csdn.net/kongmin_123/article/details/81675170" id="86">
+    <bookmark href="https://blog.csdn.net/kongmin_123/article/details/81675170" id="1775">
       <title>java连接redis配置文件修改</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/SooKie_p/article/details/92799033" id="87">
+    <bookmark href="http://blog.csdn.net/SooKie_p/article/details/92799033" id="1776">
       <title>ruby相关依赖</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/toSeeMyDream/p/8709579.html" id="88">
+    <bookmark href="https://www.cnblogs.com/toSeeMyDream/p/8709579.html" id="1777">
       <title>redis启动.停止.重启</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/GuangliZhang/article/details/107192559" id="89">
+    <bookmark href="https://blog.csdn.net/GuangliZhang/article/details/107192559" id="1778">
       <title>redis desktop manager测试连接未响应</title>
     </bookmark>
   </folder>
-  <folder id="24">
+  <folder id="1660">
     <title>Linux</title>
-    <folder id="90">
+    <folder id="1779">
       <title>ubuntu</title>
-      <bookmark href="https://blog.csdn.net/dengjin20104042056/article/details/80462511" id="210">
+      <bookmark href="https://blog.csdn.net/dengjin20104042056/article/details/80462511" id="1939">
         <title>Ubuntu修改主机名和查看主机名的方法</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/kingsonfu/p/10573853.html" id="211">
+      <bookmark href="http://cnblogs.com/kingsonfu/p/10573853.html" id="1940">
         <title>xshell xftp链接ubuntu</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/aa1209551258/article/details/81740298" id="212">
+      <bookmark href="http://blog.csdn.net/aa1209551258/article/details/81740298" id="1941">
         <title>ubunru防火墙</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/weixin_41762173/article/details/79480832" id="213">
+      <bookmark href="http://blog.csdn.net/weixin_41762173/article/details/79480832" id="1942">
         <title>ubuntu修改下载源</title>
       </bookmark>
-      <bookmark href="http://blog.csdn.net/weixin_42425970/article/details/93033025?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.nonecase&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.nonecase" id="214">
+      <bookmark href="http://blog.csdn.net/weixin_42425970/article/details/93033025?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.nonecase&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1.nonecase" id="1943">
         <title>xshell使用root用户连接ubuntu</title>
       </bookmark>
-      <bookmark href="http://cnblogs.com/senlinyang/p/8195534.html" id="215">
+      <bookmark href="http://cnblogs.com/senlinyang/p/8195534.html" id="1944">
         <title>ubuntu安装ab工具</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/u014454538/article/details/88646689?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="216">
+      <bookmark href="https://blog.csdn.net/u014454538/article/details/88646689?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="1945">
         <title>ubuntu修改静态ip</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/k_young1997/article/details/104199232" id="217">
+      <bookmark href="https://blog.csdn.net/k_young1997/article/details/104199232" id="1946">
         <title>Ubuntu 18.04 安装ElasticSearch</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/weixin_42603784/article/details/89962357" id="218">
+      <bookmark href="https://blog.csdn.net/weixin_42603784/article/details/89962357" id="1947">
         <title>ubuntu安装ik</title>
       </bookmark>
     </folder>
-    <folder id="91">
+    <folder id="1780">
       <title>centos</title>
-      <bookmark href="https://www.cnblogs.com/congcongdi/p/10149925.html" id="219">
+      <bookmark href="https://www.cnblogs.com/congcongdi/p/10149925.html" id="1948">
         <title>centos7设置静态IP地址</title>
       </bookmark>
-      <bookmark href="https://zhidao.baidu.com/question/650468069520595005.html" id="220">
+      <bookmark href="https://zhidao.baidu.com/question/650468069520595005.html" id="1949">
         <title>centos7怎么永久关闭防火墙</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/sxdcgaq8080/p/7492426.html" id="221">
+      <bookmark href="https://www.cnblogs.com/sxdcgaq8080/p/7492426.html" id="1950">
         <title>CentOS7下安装JDK详细过程</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/triumph-wyp-com/p/13544229.html" id="222">
+      <bookmark href="https://www.cnblogs.com/triumph-wyp-com/p/13544229.html" id="1951">
         <title>Elasticsearch使用自带的jdk</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/Xjzzon/article/details/104148478" id="223">
+      <bookmark href="https://blog.csdn.net/Xjzzon/article/details/104148478" id="1952">
         <title>elasticsearch的坑,ERROR: [1] bootstrap checks failed [1]: the default discovery setting are...</title>
       </bookmark>
-      <bookmark href="https://blog.csdn.net/qq_42570879/article/details/82862585" id="224">
+      <bookmark href="https://blog.csdn.net/qq_42570879/article/details/82862585" id="1953">
         <title>CentOS7安装tomcat8</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/gaohanghang/p/12099614.html" id="225">
+      <bookmark href="https://www.cnblogs.com/gaohanghang/p/12099614.html" id="1954">
         <title>Kibana将语言设置为中文</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/zhangchao512/p/9340382.html" id="226">
+      <bookmark href="https://www.cnblogs.com/zhangchao512/p/9340382.html" id="1955">
         <title>超简单CentOS7 配置阿里云yum源</title>
       </bookmark>
-      <bookmark href="https://www.cnblogs.com/u-damowang1/archive/2019/05/25/13646520.html" id="227">
+      <bookmark href="https://www.cnblogs.com/u-damowang1/archive/2019/05/25/13646520.html" id="1956">
         <title>Centos7 wget 更换阿里源</title>
       </bookmark>
-      <bookmark href="https://www.imooc.com/qadetail/69751" id="228">
+      <bookmark href="https://www.imooc.com/qadetail/69751" id="1957">
         <title>pt-query-digest 怎么安装</title>
       </bookmark>
     </folder>
-    <bookmark href="http://netsarang.com/en/free-for-home-school/" id="92">
+    <bookmark href="http://netsarang.com/en/free-for-home-school/" id="1781">
       <title>xshell and xftp (free for home)</title>
     </bookmark>
-    <bookmark href="http://blog.csdn.net/varyall/article/details/79220745" id="93">
+    <bookmark href="http://blog.csdn.net/varyall/article/details/79220745" id="1782">
       <title>vim快速跳转</title>
     </bookmark>
-    <bookmark href="https://www.jianshu.com/p/f000e05f3512" id="94">
+    <bookmark href="https://www.jianshu.com/p/f000e05f3512" id="1783">
       <title>Linux安装jdk</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/xiong_hany/article/details/94720650?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control" id="95">
+    <bookmark href="https://blog.csdn.net/xiong_hany/article/details/94720650?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-2.control" id="1784">
       <title>Linux 无法建立ＳＳＬ连接</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/weixin_43300503/article/details/88684279" id="96">
+    <bookmark href="https://blog.csdn.net/weixin_43300503/article/details/88684279" id="1785">
       <title>elasticsearch启动过程中被自动killed</title>
     </bookmark>
   </folder>
-  <folder id="25">
+  <folder id="1661">
     <title>Idea</title>
-    <bookmark href="https://blog.csdn.net/weixin_41846320/article/details/82697818?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="97">
+    <bookmark href="https://blog.csdn.net/weixin_41846320/article/details/82697818?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="1786">
       <title>IntelliJ Idea 常用11款插件</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/mtm001/article/details/101696262" id="98">
+    <bookmark href="https://blog.csdn.net/mtm001/article/details/101696262" id="1787">
       <title>IntelliJ IDEA的十个“无敌”配置及三个常用快捷键</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/link6666/article/details/103428185" id="99">
+    <bookmark href="https://blog.csdn.net/link6666/article/details/103428185" id="1788">
       <title>idea设置Ctrl+滑轮快速滚动翻页</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/Kingram/p/10972469.html" id="100">
+    <bookmark href="https://www.cnblogs.com/Kingram/p/10972469.html" id="1789">
       <title>IDEA修改背景图片和主题代码风格</title>
     </bookmark>
-    <bookmark href="http://www.360doc.com/content/15/1110/15/203871_512152222.shtml" id="101">
+    <bookmark href="http://www.360doc.com/content/15/1110/15/203871_512152222.shtml" id="1790">
       <title>Intellij IDEA设置eclipse编译器</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/LH2HA3/article/details/102074036?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="102">
+    <bookmark href="https://blog.csdn.net/LH2HA3/article/details/102074036?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf&amp;depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.add_param_isCf" id="1791">
       <title>http://mybatis.org/dtd/mybatis-3-mapper.dtd 报红解决方案</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/Dome_/article/details/109191867" id="103">
+    <bookmark href="https://blog.csdn.net/Dome_/article/details/109191867" id="1792">
       <title>idea+asm</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/seve/p/14906987.html" id="104">
+    <bookmark href="https://www.cnblogs.com/seve/p/14906987.html" id="1793">
       <title>JRebel的安装和使用</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/Han_Lin_/article/details/120096716" id="105">
+    <bookmark href="https://blog.csdn.net/Han_Lin_/article/details/120096716" id="1794">
       <title>运行时出错，命令行过长。 通过 JAR 清单或通过类路径文件缩短命令行，然后重新运行。</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/qq_43546676/article/details/104716641" id="106">
+    <bookmark href="https://blog.csdn.net/qq_43546676/article/details/104716641" id="1795">
       <title>查看类的继承关系和类实现类</title>
     </bookmark>
-    <bookmark href="http://plugin.houxinlin.com/" id="356">
+    <bookmark href="http://plugin.houxinlin.com/" id="1996">
       <title>Cool Request | Cool Request</title>
     </bookmark>
   </folder>
-  <folder id="26">
+  <folder id="1662">
     <title>前端</title>
-    <bookmark href="http://blog.csdn.net/mafan121/article/details/77449797" id="107">
+    <bookmark href="http://blog.csdn.net/mafan121/article/details/77449797" id="1796">
       <title>javascript：void(0)弹出页面</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/haonan_z/article/details/125232784" id="108">
+    <bookmark href="https://blog.csdn.net/haonan_z/article/details/125232784" id="1797">
       <title>cnpm报错解决</title>
     </bookmark>
-    <bookmark href="https://www.cnblogs.com/cythia/p/10985080.html" id="109">
+    <bookmark href="https://www.cnblogs.com/cythia/p/10985080.html" id="1798">
       <title>npm换源</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/chanyeolchichi/article/details/121348541" id="110">
+    <bookmark href="https://blog.csdn.net/chanyeolchichi/article/details/121348541" id="1799">
       <title>Node.js详细安装教程</title>
     </bookmark>
   </folder>
-  <folder id="27">
+  <folder id="1663">
     <title>经验</title>
-    <bookmark href="https://github.com/qiurunze123/threadandjuc" id="111">
+    <bookmark href="https://github.com/qiurunze123/threadandjuc" id="1800">
       <title>高并发-高可靠-高性能three-high-import导入系统-高并发多线程进阶</title>
     </bookmark>
-    <bookmark href="https://github.com/zhaocong6/lock" id="112">
+    <bookmark href="https://github.com/zhaocong6/lock" id="1801">
       <title>高性能分布式并发锁, 行为限流</title>
     </bookmark>
-    <bookmark href="https://docs.qq.com/doc/DSVNyZ2FNWWFkeFpO" id="113">
+    <bookmark href="https://docs.qq.com/doc/DSVNyZ2FNWWFkeFpO" id="1802">
       <title>juc笔记（悟空老师 chapter1）</title>
     </bookmark>
-    <bookmark href="https://docs.qq.com/doc/DSVp5R1NubFpERVZ1" id="114">
+    <bookmark href="https://docs.qq.com/doc/DSVp5R1NubFpERVZ1" id="1803">
       <title>juc 课程思维导图地址</title>
     </bookmark>
-    <bookmark href="https://smartan123.github.io/book/?file=home-%E9%A6%96%E9%A1%B5" id="115">
+    <bookmark href="https://smartan123.github.io/book/?file=home-%E9%A6%96%E9%A1%B5" id="1804">
       <title>N种企业级性能调优专题实战课 (imooc smart哥)</title>
     </bookmark>
-    <bookmark href="http://nowcoder.com/discuss/188241?type=2&amp;order=4&amp;pos=3&amp;page=3" id="116">
+    <bookmark href="http://nowcoder.com/discuss/188241?type=2&amp;order=4&amp;pos=3&amp;page=3" id="1805">
       <title>牛客网，学习方向(cyc)</title>
     </bookmark>
   </folder>
-  <folder id="28">
+  <folder id="1664">
     <title>招聘</title>
-    <folder id="117">
+    <folder id="1806">
       <title>简历</title>
-      <bookmark href="https://zhuanlan.zhihu.com/p/100096653" id="229">
+      <bookmark href="https://zhuanlan.zhihu.com/p/100096653" id="1958">
         <title>简历修改</title>
       </bookmark>
     </folder>
-    <bookmark href="https://sxh.haitou.cc/xzrl" id="118">
+    <bookmark href="https://sxh.haitou.cc/xzrl" id="1807">
       <title>海投网</title>
     </bookmark>
-    <bookmark href="https://www.nowcoder.com/discuss/838617?type=7&amp;order=7&amp;pos=2&amp;page=2&amp;ncTraceId=&amp;channel=-1&amp;source_id=discuss_center_7_nctrack" id="119">
+    <bookmark href="https://www.nowcoder.com/discuss/838617?type=7&amp;order=7&amp;pos=2&amp;page=2&amp;ncTraceId=&amp;channel=-1&amp;source_id=discuss_center_7_nctrack" id="1808">
       <title>2022春招信息</title>
     </bookmark>
-    <bookmark href="https://www.nowcoder.com/jobs/recommend/campus" id="120">
+    <bookmark href="https://www.nowcoder.com/jobs/recommend/campus" id="1809">
       <title>应届生求职网站</title>
     </bookmark>
-    <bookmark href="http://www.yingjiesheng.com/zhuanye/jisuanji/" id="121">
+    <bookmark href="http://www.yingjiesheng.com/zhuanye/jisuanji/" id="1810">
       <title>计算机招聘</title>
     </bookmark>
-    <bookmark href="https://github.com/yifeikong/reverse-interview-zh" id="122">
+    <bookmark href="https://github.com/yifeikong/reverse-interview-zh" id="1811">
       <title>反向面试</title>
     </bookmark>
   </folder>
-  <folder id="29">
+  <folder id="1665">
     <title>Oracle</title>
-    <bookmark href="https://blog.csdn.net/zs1972551648/article/details/123943630" id="123">
+    <bookmark href="https://blog.csdn.net/zs1972551648/article/details/123943630" id="1812">
       <title>Oracle安装</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/zs1972551648/article/details/123945264" id="124">
+    <bookmark href="https://blog.csdn.net/zs1972551648/article/details/123945264" id="1813">
       <title>Oracle连接可视化工具</title>
     </bookmark>
   </folder>
-  <folder id="30">
+  <folder id="1666">
     <title>Git</title>
-    <bookmark href="https://blog.csdn.net/libusi001/article/details/122229807" id="125">
+    <bookmark href="https://blog.csdn.net/libusi001/article/details/122229807" id="1814">
       <title>git代理</title>
     </bookmark>
-    <bookmark href="https://blog.csdn.net/xingxincsdn/article/details/125320830" id="126">
+    <bookmark href="https://blog.csdn.net/xingxincsdn/article/details/125320830" id="1815">
       <title>SSL连接报错</title>
     </bookmark>
   </folder>
-  <folder id="477">
+  <folder id="2068">
     <title>Tools</title>
-    <bookmark href="https://www.fujieace.com/software/powerdesigner.html" id="493">
+    <bookmark href="https://www.fujieace.com/software/powerdesigner.html" id="2095">
       <title>PowerDesigner安装教程（含下载+汉化+破解）</title>
     </bookmark>
   </folder>
-  <folder id="478">
+  <folder id="2069">
     <title>Docker</title>
-    <bookmark href="https://blog.51cto.com/441274636/1898049" id="494">
+    <bookmark href="https://blog.51cto.com/441274636/1898049" id="2096">
       <title>Linux + Docker启动所有的容器命令</title>
     </bookmark>
   </folder>
 </folder>
-<folder id="31">
+<folder id="1641">
   <title>Tool</title>
-  <bookmark href="https://www.freeconvert.com/zh/video-compressor" id="127">
+  <bookmark href="https://www.freeconvert.com/zh/video-compressor" id="1667">
     <title>视频压缩器</title>
   </bookmark>
-  <folder id="128">
+  <folder id="1668">
     <title>Github</title>
-    <bookmark href="https://github.com/yazdipour/unlimited-ticktick-windows?tab=readme-ov-file" id="230">
+    <bookmark href="https://github.com/yazdipour/unlimited-ticktick-windows?tab=readme-ov-file" id="1816">
       <title>ticktick-github</title>
     </bookmark>
   </folder>
-  <folder id="129">
+  <folder id="1669">
     <title>Chrome</title>
-    <bookmark href="https://blog.csdn.net/zjyJul/article/details/121372711?spm=1001.2101.3001.6661.1&amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&amp;utm_relevant_index=1" id="231">
+    <bookmark href="https://blog.csdn.net/zjyJul/article/details/121372711?spm=1001.2101.3001.6661.1&amp;utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&amp;depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1.pc_relevant_antiscanv2&amp;utm_relevant_index=1" id="1817">
       <title>chrome的控制台打开很慢</title>
     </bookmark>
   </folder>
-  <bookmark href="https://separator.mayastudios.com/index.php?t=horz" id="130">
+  <bookmark href="https://separator.mayastudios.com/index.php?t=horz" id="1670">
     <title>───────────</title>
   </bookmark>
-  <folder id="131">
+  <folder id="1671">
     <title>学生证</title>
-    <bookmark href="https://student-id.pages.dev/" id="232">
+    <bookmark href="https://student-id.pages.dev/" id="1818">
       <title>学生证生成器</title>
     </bookmark>
-    <bookmark href="https://edu.chatgpt.org.uk/" id="233">
+    <bookmark href="https://edu.chatgpt.org.uk/" id="1819">
       <title>Fake SID/Certificate Generator</title>
     </bookmark>
   </folder>
-  <folder id="132">
+  <folder id="1672">
     <title>地址管理</title>
-    <bookmark href="https://www.shenfendaquan.com/" id="234">
+    <bookmark href="https://www.shenfendaquan.com/" id="1820">
       <title>美国生成</title>
     </bookmark>
-    <bookmark href="https://fauxid.com/" id="235">
+    <bookmark href="https://fauxid.com/" id="1821">
       <title>地址生成</title>
     </bookmark>
-    <bookmark href="https://www.meiguodizhi.com/" id="236">
+    <bookmark href="https://www.meiguodizhi.com/" id="1822">
       <title>美国地址生成器</title>
     </bookmark>
   </folder>
-  <folder id="133">
+  <folder id="1673">
     <title>ICON</title>
-    <bookmark href="https://icon-sets.iconify.design/" id="237">
+    <bookmark href="https://icon-sets.iconify.design/" id="1823">
       <title>Open Icon</title>
     </bookmark>
   </folder>
-  <folder id="134">
+  <folder id="1674">
     <title>接码</title>
-    <bookmark href="https://h5.haozhuyun.com/index.php" id="238">
+    <bookmark href="https://h5.haozhuyun.com/index.php" id="1824">
       <title>豪猪接码</title>
     </bookmark>
-    <bookmark href="https://sms-activate.io/" id="239">
+    <bookmark href="https://sms-activate.io/" id="1825">
       <title>SMS-Activate</title>
     </bookmark>
-    <bookmark href="https://jiemahao.com/" id="240">
+    <bookmark href="https://jiemahao.com/" id="1826">
       <title>免费接码</title>
     </bookmark>
-    <bookmark href="https://onlinesim.io/" id="241">
+    <bookmark href="https://onlinesim.io/" id="1827">
       <title>免费接码</title>
     </bookmark>
-    <bookmark href="https://smailpro.com/temporary-email#" id="242">
+    <bookmark href="https://smailpro.com/temporary-email#" id="1828">
       <title>临时邮箱获取</title>
     </bookmark>
-    <bookmark href="https://www.linshiyouxiang.net/" id="243">
+    <bookmark href="https://www.linshiyouxiang.net/" id="1829">
       <title>临时邮箱</title>
     </bookmark>
-    <bookmark href="https://www.linshi-email.com/" id="244">
+    <bookmark href="https://www.linshi-email.com/" id="1830">
       <title>临时邮箱</title>
     </bookmark>
-    <bookmark href="https://yx.hedi.club/" id="245">
+    <bookmark href="https://yx.hedi.club/" id="1831">
       <title>河马邮箱</title>
     </bookmark>
   </folder>
-  <folder id="135">
+  <folder id="1675">
     <title>打码</title>
-    <bookmark href="https://2captcha.com/zh/enterpage#recognition" id="788">
-      <title>2captcha</title>
-    </bookmark>
-    <bookmark href="https://m.freebuf.com/articles/web/238701.html" id="247">
+    <bookmark href="https://m.freebuf.com/articles/web/238701.html" id="1832">
       <title>FreeBuf</title>
     </bookmark>
-    <bookmark href="http://www.ttshitu.com/?spm=null" id="248">
+    <bookmark href="http://www.ttshitu.com/?spm=null" id="1833">
       <title>图鉴</title>
     </bookmark>
-    <bookmark href="https://www.chaojiying.com/" id="249">
+    <bookmark href="https://www.chaojiying.com/" id="1834">
       <title>超级鹰</title>
     </bookmark>
   </folder>
-  <folder id="136">
+  <folder id="1676">
     <title>格式转换</title>
-    <bookmark href="https://convertio.co/zh/mp3-converter/" id="250">
+    <bookmark href="https://convertio.co/zh/mp3-converter/" id="1835">
       <title>在线格式转换</title>
     </bookmark>
-    <bookmark href="https://jianwai.youdao.com/index/0" id="251">
+    <bookmark href="https://jianwai.youdao.com/index/0" id="1836">
       <title>网易见外工作台</title>
     </bookmark>
-    <bookmark href="https://it365.gitlab.io/zh-cn/srt-to-txt/" id="252">
+    <bookmark href="https://it365.gitlab.io/zh-cn/srt-to-txt/" id="1837">
       <title>it365 字幕转换文字</title>
     </bookmark>
   </folder>
-  <folder id="357">
+  <folder id="1959">
     <title>修图</title>
-    <bookmark href="https://www.gaoding.com/koutu" id="416">
+    <bookmark href="https://www.gaoding.com/koutu" id="1997">
       <title>在线抠图软件</title>
     </bookmark>
-    <bookmark href="http://gaitubao.com/" id="417">
+    <bookmark href="http://gaitubao.com/" id="1998">
       <title>修图</title>
     </bookmark>
   </folder>
-  <folder id="358">
+  <folder id="1960">
     <title>DownLoad</title>
-    <bookmark href="https://www.yutu.cn/" id="418">
+    <bookmark href="https://www.yutu.cn/" id="1999">
       <title>设计软件下载</title>
     </bookmark>
-    <bookmark href="https://foxirj.com/" id="419">
+    <bookmark href="https://foxirj.com/" id="2000">
       <title>佛系软件</title>
     </bookmark>
-    <bookmark href="https://99zywo.com/" id="420">
+    <bookmark href="https://99zywo.com/" id="2001">
       <title>99资源网</title>
     </bookmark>
   </folder>
-  <folder id="495">
+  <folder id="2070">
     <title>Win</title>
-    <bookmark href="http://msdn.itellyou.cn/" id="511">
+    <bookmark href="http://msdn.itellyou.cn/" id="2097">
       <title>windows系统下载</title>
     </bookmark>
-    <bookmark href="https://zhuanlan.zhihu.com/p/498843944" id="512">
+    <bookmark href="https://zhuanlan.zhihu.com/p/498843944" id="2098">
       <title>Win11专业工作站安装</title>
     </bookmark>
   </folder>
-  <folder id="496">
+  <folder id="2071">
     <title>ZXDK</title>
-    <bookmark href="https://sls.cdb.com.cn/#/" id="513">
+    <bookmark href="https://sls.cdb.com.cn/#/" id="2099">
       <title>助学贷款</title>
     </bookmark>
   </folder>
 </folder>
-<folder id="32">
+<folder id="1642">
   <title>Email</title>
-  <bookmark href="http://douhao.online/" id="679">
-    <title>邮箱购买</title>
-  </bookmark>
-  <bookmark href="http://cname.mail.nyist.edu.cn/Home/Verify" id="138">
+  <bookmark href="http://cname.mail.nyist.edu.cn/Home/Verify" id="1677">
     <title>onetwo@nyist.edu.cn</title>
   </bookmark>
-  <bookmark href="https://mail.163.com/js6/main.jsp?sid=TBouhcIOvuHsDVWvlWOOXlwliAvtmuXA&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="139">
+  <bookmark href="https://mail.163.com/js6/main.jsp?sid=TBouhcIOvuHsDVWvlWOOXlwliAvtmuXA&amp;df=unknow#module=welcome.WelcomeModule%7C%7B%7D" id="1678">
     <title>bhh18223@163.com</title>
   </bookmark>
-  <bookmark href="https://mail.qq.com/" id="140">
+  <bookmark href="https://mail.qq.com/" id="1679">
     <title>448895767@qq.com</title>
   </bookmark>
-  <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="141">
+  <bookmark href="https://mail.google.com/mail/u/2/#inbox" id="1680">
     <title>nyist.onetwo@gmail.com</title>
   </bookmark>
 </folder>
-<folder id="33">
+<folder id="1643">
   <title>Note</title>
-  <folder id="142">
+  <folder id="1681">
     <title>博客园</title>
-    <folder id="253">
+    <folder id="1838">
       <title>主题</title>
-      <bookmark href="https://esofar.github.io/cnblogs-theme-silence/#/" id="359">
+      <bookmark href="https://esofar.github.io/cnblogs-theme-silence/#/" id="1961">
         <title>主题Silence</title>
       </bookmark>
-      <bookmark href="https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2/#/" id="360">
+      <bookmark href="https://bndong.github.io/Cnblogs-Theme-SimpleMemory/v2/#/" id="1962">
         <title>主题SimpleMemory</title>
       </bookmark>
     </folder>
-    <folder id="254">
+    <folder id="1839">
       <title>q/a</title>
-      <bookmark href="https://www.cnblogs.com/timewhite/p/13935906.html" id="361">
+      <bookmark href="https://www.cnblogs.com/timewhite/p/13935906.html" id="1963">
         <title>博客园发布文章，个人博客主页不显示</title>
       </bookmark>
     </folder>
-    <bookmark href="https://www.cnblogs.com/qhlb/" id="255">
+    <bookmark href="https://www.cnblogs.com/qhlb/" id="1840">
       <title>主页</title>
     </bookmark>
   </folder>
-  <folder id="143">
+  <folder id="1682">
     <title>思源</title>
-    <bookmark href="https://ld246.com/domain/siyuan" id="256">
+    <bookmark href="https://ld246.com/domain/siyuan" id="1841">
       <title>思源笔记</title>
     </bookmark>
-    <bookmark href="https://ld246.com/article/1651909954399#%E5%AD%97%E4%BD%93" id="257">
+    <bookmark href="https://ld246.com/article/1651909954399#%E5%AD%97%E4%BD%93" id="1842">
       <title>CSS 样式百科全书（标题篇）</title>
     </bookmark>
-    <bookmark href="https://www.yuque.com/u25584857/ryp75p/sgf58w#lYtKv" id="258">
+    <bookmark href="https://www.yuque.com/u25584857/ryp75p/sgf58w#lYtKv" id="1843">
       <title>思源笔记外观修改详解</title>
     </bookmark>
-    <bookmark href="https://www.zhihu.com/people/wen-zhi-dao-56/posts" id="259">
+    <bookmark href="https://www.zhihu.com/people/wen-zhi-dao-56/posts" id="1844">
       <title>思源修改</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.notion.so/qhlb/b386557757c14a8894f6572d3f2bd39c" id="144">
+  <bookmark href="https://www.notion.so/qhlb/b386557757c14a8894f6572d3f2bd39c" id="1683">
     <title>notion</title>
   </bookmark>
-  <bookmark href="https://www.processon.com/" id="145">
+  <bookmark href="https://www.processon.com/" id="1684">
     <title>ProcessOn</title>
   </bookmark>
-  <bookmark href="https://feedly.com/" id="146">
+  <bookmark href="https://feedly.com/" id="1685">
     <title>feedly</title>
   </bookmark>
 </folder>
-<folder id="34">
+<folder id="1644">
   <title>Work</title>
-  <folder id="147">
+  <folder id="1686">
     <title>NCC</title>
-    <bookmark href="https://nccdev.yonyou.com/login?redirect=%2Farticle%2Fdetail%2F401" id="260">
+    <bookmark href="https://nccdev.yonyou.com/login?redirect=%2Farticle%2Fdetail%2F401" id="1845">
       <title>YonBIP高级版开发社区</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/article/detail/187#35" id="261">
+    <bookmark href="https://nccdev.yonyou.com/article/detail/187#35" id="1846">
       <title>NCC常见问题</title>
     </bookmark>
-    <bookmark href="https://ec.diwork.com/" id="262">
+    <bookmark href="https://ec.diwork.com/" id="1847">
       <title>友空间</title>
     </bookmark>
-    <bookmark href="https://app.yinxiang.com/fx/eb9c9698-52ec-4427-be15-5b338b5a77fe" id="263">
+    <bookmark href="https://app.yinxiang.com/fx/eb9c9698-52ec-4427-be15-5b338b5a77fe" id="1848">
       <title>ncc模块添加</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/datadict/bipbook/docs/COVER.html" id="264">
+    <bookmark href="https://nccdev.yonyou.com/datadict/bipbook/docs/COVER.html" id="1849">
       <title>《ncc开发入门》</title>
     </bookmark>
-    <bookmark href="https://yonbip.diwork.com/iuap-hc-client/ucf-wh/client/index.html#/detail/1088?nodeId=61678e89-ee03-4730-adbd-6dfc29522e93" id="265">
+    <bookmark href="https://yonbip.diwork.com/iuap-hc-client/ucf-wh/client/index.html#/detail/1088?nodeId=61678e89-ee03-4730-adbd-6dfc29522e93" id="1850">
       <title>ncc帮助中心</title>
     </bookmark>
-    <bookmark href="https://gitee.com/bmonkeyk/ncc-dev-tools" id="266">
+    <bookmark href="https://gitee.com/bmonkeyk/ncc-dev-tools" id="1851">
       <title>ncc开源插件</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/article/detail/640" id="267">
+    <bookmark href="https://nccdev.yonyou.com/article/detail/640" id="1852">
       <title>学习资料（NCC）</title>
     </bookmark>
-    <bookmark href="http://yonyou.yunxuetang.cn/youlexuehome.htm" id="268">
+    <bookmark href="http://yonyou.yunxuetang.cn/youlexuehome.htm" id="1853">
       <title>友乐学</title>
     </bookmark>
-    <bookmark href="http://10.16.8.194/home?version=v2111" id="269">
+    <bookmark href="http://10.16.8.194/home?version=v2111" id="1854">
       <title>ncc前端规范</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/article/detail/539" id="421">
+    <bookmark href="https://nccdev.yonyou.com/article/detail/539" id="2002">
       <title>NC常用工具类包开发笔记</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/video/plandetail/5" id="422">
+    <bookmark href="https://nccdev.yonyou.com/video/plandetail/5" id="2003">
       <title>学习路线</title>
     </bookmark>
-    <bookmark href="https://nccdev.yonyou.com/article/detail/513#0" id="423">
+    <bookmark href="https://nccdev.yonyou.com/article/detail/513#0" id="2004">
       <title>导入导出</title>
     </bookmark>
   </folder>
-  <bookmark href="https://www.bejson.com/xml2json/" id="148">
+  <bookmark href="https://www.bejson.com/xml2json/" id="1687">
     <title>json</title>
   </bookmark>
-  <bookmark href="https://113.142.66.160:4433/" id="149">
+  <bookmark href="https://113.142.66.160:4433/" id="1688">
     <title>vpn</title>
   </bookmark>
-  <bookmark href="https://www.json.cn/" id="150">
+  <bookmark href="https://www.json.cn/" id="1689">
     <title>JSON在线解析</title>
   </bookmark>
-  <bookmark href="https://172.16.22.5:8443/index.php/login" id="151">
+  <bookmark href="https://172.16.22.5:8443/index.php/login" id="1690">
     <title>华为统一运维审计</title>
   </bookmark>
-  <bookmark href="https://nccdev.yonyou.com/article/detail/476" id="152">
+  <bookmark href="https://nccdev.yonyou.com/article/detail/476" id="1691">
     <title>低代码开发工具申请</title>
   </bookmark>
-  <bookmark href="https://blog.csdn.net/u012337114/article/details/79200976" id="153">
+  <bookmark href="https://blog.csdn.net/u012337114/article/details/79200976" id="1692">
     <title>同一个局域网中，ping不通其他电脑</title>
   </bookmark>
 </folder>
-<folder id="35">
+<folder id="1645">
   <title>Int</title>
-  <bookmark href="https://www.nodeseek.com/" id="154">
+  <bookmark href="https://www.nodeseek.com/" id="1693">
     <title>NodeSeek</title>
   </bookmark>
-  <bookmark href="http://test.123456.buzz/" id="155">
+  <bookmark href="http://test.123456.buzz/" id="1694">
     <title>DXP Emby测速</title>
   </bookmark>
-  <bookmark href="https://wiki.linux.do/" id="156">
+  <bookmark href="https://wiki.linux.do/" id="1695">
     <title>LINUX DO WIKI</title>
   </bookmark>
-  <bookmark href="https://www.tenlonstudio.com/" id="157">
+  <bookmark href="https://www.tenlonstudio.com/" id="1696">
     <title>腾龙工作室</title>
   </bookmark>
-  <bookmark href="https://www.nite07.com/u/nite07" id="158">
+  <bookmark href="https://www.nite07.com/u/nite07" id="1697">
     <title>Nite07的小窝</title>
   </bookmark>
-  <folder id="159">
+  <folder id="1698">
     <title>资源</title>
-    <folder id="270">
+    <folder id="1855">
       <title>软件资源</title>
-      <bookmark href="https://apkpure.com/cn/" id="362">
+      <bookmark href="https://apkpure.com/cn/" id="1964">
         <title>国际APK</title>
       </bookmark>
-      <bookmark href="https://www.coolapk.com/feed/44779284?shareKey=NmFlMzY4ZWY5ODFmNjQzNTYyYmY~" id="363">
+      <bookmark href="https://www.coolapk.com/feed/44779284?shareKey=NmFlMzY4ZWY5ODFmNjQzNTYyYmY~" id="1965">
         <title>Potplayer便携版懒人包</title>
       </bookmark>
-      <bookmark href="https://macked.app/" id="364">
+      <bookmark href="https://macked.app/" id="1966">
         <title>MacKed</title>
       </bookmark>
     </folder>
-    <folder id="271">
+    <folder id="1856">
       <title>搜索</title>
-      <bookmark href="https://yiso.fun/" id="365">
+      <bookmark href="https://yiso.fun/" id="1967">
         <title>易搜</title>
       </bookmark>
-      <bookmark href="https://hunhepan.com/" id="366">
+      <bookmark href="https://hunhepan.com/" id="1968">
         <title>混合盘</title>
       </bookmark>
-      <bookmark href="https://www.kkwnhub.com/" id="367">
+      <bookmark href="https://www.kkwnhub.com/" id="1969">
         <title>爱盼</title>
       </bookmark>
     </folder>
-    <folder id="272">
+    <folder id="1857">
       <title>Media</title>
-      <bookmark href="https://www.wogg.xyz/" id="368">
+      <bookmark href="https://www.wogg.xyz/" id="1970">
         <title>玩偶哥哥</title>
       </bookmark>
-      <bookmark href="https://pan666.cn/" id="369">
+      <bookmark href="https://pan666.cn/" id="1971">
         <title>阿里小站</title>
       </bookmark>
-      <bookmark href="http://www.zzzfun.com/" id="370">
+      <bookmark href="http://www.zzzfun.com/" id="1972">
         <title>Z动漫视频网</title>
       </bookmark>
-      <bookmark href="https://bgmlist.com/" id="371">
+      <bookmark href="https://bgmlist.com/" id="1973">
         <title>番组放送</title>
       </bookmark>
-      <bookmark href="https://www.xmwav.com/" id="372">
+      <bookmark href="https://www.xmwav.com/" id="1974">
         <title>熊猫无损音乐</title>
       </bookmark>
-      <bookmark href="https://www.hifini.com/" id="373">
+      <bookmark href="https://www.hifini.com/" id="1975">
         <title>HiFiNi - 音乐磁场</title>
       </bookmark>
-      <bookmark href="https://flac.life/" id="374">
+      <bookmark href="https://flac.life/" id="1976">
         <title>无损生活</title>
       </bookmark>
     </folder>
   </folder>
-  <folder id="160">
+  <folder id="1699">
     <title>论坛</title>
-    <bookmark href="https://www.t00ls.com/" id="273">
+    <bookmark href="https://www.t00ls.com/" id="1858">
       <title>T00ls</title>
     </bookmark>
-    <bookmark href="https://www.right.com.cn/forum/forum-72-1.html" id="274">
+    <bookmark href="https://www.right.com.cn/forum/forum-72-1.html" id="1859">
       <title>恩山无线论坛</title>
     </bookmark>
-    <bookmark href="https://meta.appinn.net/" id="275">
+    <bookmark href="https://meta.appinn.net/" id="1860">
       <title>小众软件论坛</title>
     </bookmark>
   </folder>
-  <folder id="161">
-    <title>游戏</title>
-    <folder id="276">
-      <title>第七史诗</title>
-      <bookmark href="https://automan.joyqoo.com/epic7/gvg" id="375">
-        <title>拉斯助手</title>
-      </bookmark>
-      <bookmark href="https://bbs.nga.cn/read.php?tid=37637980&amp;page=1&amp;rand=411" id="376">
-        <title>第七史诗配装器</title>
-      </bookmark>
-      <bookmark href="https://icetail1.github.io/ICE-Calculate/e7-damage-calc/zh/" id="377">
-        <title>第七史诗 伤害计算器ICE修改版</title>
-      </bookmark>
-      <bookmark href="https://word.yszso.com:8243/gongzuoshi" id="378">
-        <title>第七精灵exe</title>
-      </bookmark>
-      <bookmark href="https://wiki.biligame.com/epic7/%E9%A6%96%E9%A1%B5" id="379">
-        <title>e7bWIKI</title>
-      </bookmark>
-      <bookmark href="https://epic7.gamekee.com/" id="380">
-        <title>e7wiki</title>
-      </bookmark>
-      <bookmark href="https://ceciliabot.github.io/#/" id="381">
-        <title>CeciliaBot</title>
-      </bookmark>
-      <bookmark href="https://fribbels.github.io/e7/hero-library.html?hero=Savior+Adin" id="382">
-        <title>e7Hero Library</title>
-      </bookmark>
-      <bookmark href="https://fribbels.github.io/e7/gw-meta.html" id="383">
-        <title>Fribbels GW Meta Tracker</title>
-      </bookmark>
-    </folder>
-    <folder id="277">
-      <title>原神</title>
-      <bookmark href="https://ngabbs.com/read.php?tid=28464477&amp;rand=879" id="384">
-        <title>原神队伍伤害</title>
-      </bookmark>
-      <bookmark href="https://bbs.nga.cn/thread.php?fid=650" id="385">
-        <title>原神-NGA</title>
-      </bookmark>
-      <bookmark href="https://spiralabyss.org/zh/floor-12-usage-rate" id="386">
-        <title>原神深境螺旋使用率</title>
-      </bookmark>
-      <bookmark href="https://paimon.moe/" id="387">
-        <title>原石抽卡</title>
-      </bookmark>
-      <bookmark href="https://cocogoat.work/achievement" id="388">
-        <title>椰羊cocogoat</title>
-      </bookmark>
-      <bookmark href="https://webstatic.mihoyo.com/ys/app/interactive-map/index.html?bbs_presentation_style=no_header&amp;lang=zh-cn#/map/2?shown_types=2,3,154,158,190,316,319,338,340&amp;center=1288.04,-826.89&amp;zoom=-1.00" id="389">
-        <title>大地图工具</title>
-      </bookmark>
-      <bookmark href="https://mona-uranai.com/" id="390">
-        <title>莫娜占卜铺</title>
-      </bookmark>
-      <bookmark href="https://genshincalc.kchlu.com/" id="391">
-        <title>原神伤害可视化计算器</title>
-      </bookmark>
-      <bookmark href="https://genshin.mingyulab.com/artifact_set_compare/artifact_set_compare" id="392">
-        <title>原魔计算器</title>
-      </bookmark>
-      <bookmark href="https://feixiaoqiu.com/" id="393">
-        <title>非小酋</title>
-      </bookmark>
-    </folder>
-    <folder id="278">
-      <title>Other</title>
-      <bookmark href="https://theporndude.com/zh" id="394">
-        <title>Porn Dude</title>
-      </bookmark>
-      <bookmark href="https://zhuanlan.zhihu.com/p/441414230" id="395">
-        <title>闲谈圣少女及其作品</title>
-      </bookmark>
-      <bookmark href="https://www.patreon.com/UnderTheWitch/posts" id="396">
-        <title>NumericGazer</title>
-      </bookmark>
-    </folder>
-    <bookmark href="https://sway.office.com/1ESaLEE3x47BTgZC" id="279">
-      <title>switch520</title>
-    </bookmark>
-    <bookmark href="https://gamepad-tester.com/" id="280">
-      <title>手把</title>
-    </bookmark>
-  </folder>
-  <folder id="162">
-    <title>mmd</title>
-    <bookmark href="https://blender.kim/" id="281">
-      <title>魔酷网</title>
-    </bookmark>
-    <bookmark href="https://www.aplaybox.com/" id="282">
-      <title>模之屋</title>
-    </bookmark>
-    <bookmark href="https://w.atwiki.jp/vpvpwiki/pages/272.html#id_3701549e" id="283">
-      <title>MME</title>
-    </bookmark>
-    <bookmark href="https://riyutool.com/" id="284">
-      <title>日语在线翻译</title>
-    </bookmark>
-    <bookmark href="https://www.mikuclub.cc/mmd" id="285">
-      <title>初音社</title>
-    </bookmark>
-    <bookmark href="https://www.bilibili.com/read/cv7185607" id="286">
-      <title>新人向MMD资源较详细全面索引</title>
-    </bookmark>
-    <bookmark href="https://bowlroll.net/r18/file/index" id="287">
-      <title>BowlRoll</title>
-    </bookmark>
-    <bookmark href="https://3d.nicovideo.jp/" id="288">
-      <title>ニコニ立体</title>
-    </bookmark>
-    <bookmark href="https://wenku.baidu.com/view/1cbca3a8cf22bcd126fff705cc17552707225e2c.html" id="289">
-      <title>《MMD模型改模、建模、表情、修复教程》</title>
-    </bookmark>
-  </folder>
-  <folder id="163">
+  <folder id="1700">
     <title>Other</title>
-    <bookmark href="https://post.smzdm.com/p/a4pk5pr8/" id="290">
+    <bookmark href="https://post.smzdm.com/p/a4pk5pr8/" id="1861">
       <title>移动光猫</title>
     </bookmark>
-    <bookmark href="http://bz.zzzmh.cn/#anime" id="291">
+    <bookmark href="http://bz.zzzmh.cn/#anime" id="1862">
       <title>极简壁纸</title>
     </bookmark>
-    <bookmark href="https://xueqiu.com/u/6844717495" id="292">
+    <bookmark href="https://xueqiu.com/u/6844717495" id="1863">
       <title>鹿鸣歌 - 雪球</title>
     </bookmark>
   </folder>
 </folder>
-<folder id="36">
+<folder id="1646">
   <title>VPS</title>
-  <bookmark href="https://fofa.info/" id="164">
+  <bookmark href="https://fofa.info/" id="1701">
     <title>FOFA网络搜索引擎</title>
   </bookmark>
-  <bookmark href="https://panel10.serv00.com/" id="165">
+  <bookmark href="https://panel10.serv00.com/" id="1702">
     <title>Serv00</title>
   </bookmark>
-  <bookmark href="https://116.196.83.50:11715/657f5632" id="166">
+  <bookmark href="https://116.196.83.50:11715/657f5632" id="1703">
     <title>My Linux</title>
   </bookmark>
-  <bookmark href="http://38.175.203.146:21959/" id="709">
+  <bookmark href="https://panel.bhhnas.xyz/" id="1704">
     <title>1Panel</title>
   </bookmark>
-  <bookmark href="https://192.168.0.111:5001/?_sid=&amp;launchApp=SYNO.SDS.StorageManager.Instance&amp;SynoToken=a3BEvQGXXmLDE" id="168">
+  <bookmark href="https://192.168.0.111:5001/?_sid=&amp;launchApp=SYNO.SDS.StorageManager.Instance&amp;SynoToken=a3BEvQGXXmLDE" id="1705">
     <title>MyNas</title>
   </bookmark>
-  <bookmark href="https://virt.crunchbits.com/dashboard" id="169">
+  <bookmark href="https://virt.crunchbits.com/dashboard" id="1706">
     <title>Crunchbits控制台</title>
   </bookmark>
-  <bookmark href="https://get.crunchbits.com/clientarea.php" id="170">
+  <bookmark href="https://get.crunchbits.com/clientarea.php" id="1707">
     <title>Crunchbits</title>
   </bookmark>
-  <bookmark href="https://www.jdcloud.com/" id="171">
+  <bookmark href="https://www.jdcloud.com/" id="1708">
     <title>京东云</title>
   </bookmark>
-  <bookmark href="https://cloud.tencent.com/" id="172">
+  <bookmark href="https://cloud.tencent.com/" id="1709">
     <title>腾讯云</title>
   </bookmark>
-  <bookmark href="https://www.aliyun.com/?accounttraceid=ebad3fdae61a4b00bf642b6888274a18qnvu" id="173">
+  <bookmark href="https://www.aliyun.com/?accounttraceid=ebad3fdae61a4b00bf642b6888274a18qnvu" id="1710">
     <title>阿里云</title>
   </bookmark>
-  <bookmark href="https://www.cloudflare.com/zh-cn/" id="397">
+  <bookmark href="https://www.cloudflare.com/zh-cn/" id="1977">
     <title>Cloudflare</title>
   </bookmark>
-  <bookmark href="https://vpsls.com/" id="398">
+  <bookmark href="https://vpsls.com/" id="1978">
     <title>VPS购买</title>
   </bookmark>
-  <folder id="399">
+  <folder id="1979">
     <title>IP/域名</title>
-    <bookmark href="https://ipcheck.ing/#/" id="424">
+    <bookmark href="https://ipcheck.ing/#/" id="2005">
       <title>IPCheck.ing</title>
     </bookmark>
-    <bookmark href="https://tool.lu/ip/" id="425">
+    <bookmark href="https://tool.lu/ip/" id="2006">
       <title>IP地址查询</title>
     </bookmark>
-    <bookmark href="https://sitereport.netcraft.com/" id="426">
+    <bookmark href="https://sitereport.netcraft.com/" id="2007">
       <title>域名分析</title>
     </bookmark>
-    <bookmark href="https://www.itdog.cn/" id="427">
+    <bookmark href="https://www.itdog.cn/" id="2008">
       <title>ITDOG</title>
     </bookmark>
   </folder>
-  <folder id="400">
+  <folder id="1980">
     <title>云</title>
-    <bookmark href="https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/" id="428">
+    <bookmark href="https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/" id="2009">
       <title>Proxysite Serv00代理</title>
     </bookmark>
-    <bookmark href="https://987.fscloud.cc/#/login" id="429">
+    <bookmark href="https://987.fscloud.cc/#/login" id="2010">
       <title>FSCloud</title>
     </bookmark>
-    <bookmark href="https://8y73j9wh8b1.ykkk.best/#/dashboard" id="430">
+    <bookmark href="https://8y73j9wh8b1.ykkk.best/#/dashboard" id="2011">
       <title>YkkCloud</title>
     </bookmark>
-    <bookmark href="https://ikuuu.pw/user/node" id="431">
+    <bookmark href="https://ikuuu.pw/user/node" id="2012">
       <title>iKuuu</title>
     </bookmark>
-    <bookmark href="https://love.52pokemon.cc/#/dashboard" id="432">
+    <bookmark href="https://love.52pokemon.cc/#/dashboard" id="2013">
       <title>宝可梦云加速</title>
     </bookmark>
-    <bookmark href="https://dashboard.ouonet.work/server_status" id="433">
+    <bookmark href="https://dashboard.ouonet.work/server_status" id="2014">
       <title>OuO机场</title>
     </bookmark>
-    <bookmark href="https://hneko.top/#/dashboard" id="434">
+    <bookmark href="https://hneko.top/#/dashboard" id="2015">
       <title>Hneko云</title>
     </bookmark>
-    <bookmark href="https://www.qg.net/" id="435">
+    <bookmark href="https://www.qg.net/" id="2016">
       <title>青果网络</title>
     </bookmark>
-    <bookmark href="https://sub.v1.mk/" id="436">
+    <bookmark href="https://sub.v1.mk/" id="2017">
       <title>在线订阅转换工具</title>
     </bookmark>
-    <bookmark href="https://cf59879f.bpb-worker-panel-8mi.pages.dev/panel" id="437">
+    <bookmark href="https://cf59879f.bpb-worker-panel-8mi.pages.dev/panel" id="2018">
       <title>BPB Panel 2.5</title>
     </bookmark>
-    <bookmark href="https://lmaff01.lmspeed.co/dashboard" id="469">
+    <bookmark href="https://lmaff01.lmspeed.co/dashboard" id="2050">
       <title>龙猫云</title>
     </bookmark>
-    <bookmark href="https://svc.me.huy.ooo/zh/#/dashboard(activity:profile)" id="470">
+    <bookmark href="https://svc.me.huy.ooo/zh/#/dashboard(activity:profile)" id="2051">
       <title>忽悠云</title>
     </bookmark>
   </folder>
-  <folder id="401">
+  <folder id="1981">
     <title>Domain</title>
-    <bookmark href="https://www.namesilo.com/" id="438">
+    <bookmark href="https://www.namesilo.com/" id="2019">
       <title>NameSilo</title>
     </bookmark>
   </folder>
-  <folder id="402">
+  <folder id="1982">
     <title>面板</title>
-    <bookmark href="https://1o2t.top:41198/" id="439">
+    <bookmark href="https://1o2t.top:41198/" id="2020">
       <title>1Panel</title>
     </bookmark>
-    <bookmark href="https://bt.sy/bbs/forum-37-1.html" id="440">
+    <bookmark href="https://bt.sy/bbs/forum-37-1.html" id="2021">
       <title>宝塔开心社区</title>
     </bookmark>
-    <bookmark href="https://safe.bt.sy/" id="441">
+    <bookmark href="https://safe.bt.sy/" id="2022">
       <title>BT开心版授权</title>
     </bookmark>
   </folder>
-  <folder id="403">
+  <folder id="1983">
     <title>群晖</title>
-    <bookmark href="http://192.168.0.111:3000/#/plugins" id="442">
+    <bookmark href="http://192.168.0.111:3000/#/plugins" id="2023">
       <title>MoviePilot</title>
     </bookmark>
-    <bookmark href="http://192.168.0.121/cgi-bin/luci/" id="443">
+    <bookmark href="http://192.168.0.121/cgi-bin/luci/" id="2024">
       <title>OpenWrt</title>
     </bookmark>
-    <bookmark href="http://192.168.0.111:5678/" id="444">
+    <bookmark href="http://192.168.0.111:5678/" id="2025">
       <title>小雅Alist</title>
     </bookmark>
-    <bookmark href="http://192.168.0.111:2345/web/index.html#!/home" id="445">
+    <bookmark href="http://192.168.0.111:2345/web/index.html#!/home" id="2026">
       <title>Emby</title>
     </bookmark>
-    <bookmark href="http://192.168.0.180:8085/#/login?redirect=/" id="446">
+    <bookmark href="http://192.168.0.180:8085/#/login?redirect=/" id="2027">
       <title>QB</title>
     </bookmark>
-    <bookmark href="http://192.168.0.111:9876/login" id="447">
+    <bookmark href="http://192.168.0.111:9876/login" id="2028">
       <title>DDNS-GO</title>
     </bookmark>
   </folder>
-  <folder id="404">
+  <folder id="1984">
     <title>PT</title>
-    <bookmark href="https://t.tosky.club/index.php" id="448">
+    <bookmark href="https://t.tosky.club/index.php" id="2029">
       <title>PTToSky</title>
     </bookmark>
-    <bookmark href="https://rousi.zip/index.php" id="449">
+    <bookmark href="https://rousi.zip/index.php" id="2030">
       <title>PTRousi</title>
     </bookmark>
-    <bookmark href="https://cyanbug.net/index.php" id="450">
+    <bookmark href="https://cyanbug.net/index.php" id="2031">
       <title>大青虫</title>
     </bookmark>
-    <bookmark href="https://mikanani.me/" id="451">
+    <bookmark href="https://mikanani.me/" id="2032">
       <title>蜜柑计划</title>
     </bookmark>
   </folder>
-  <folder id="405">
+  <folder id="1985">
     <title>托管平台</title>
-    <bookmark href="https://huggingface.co/" id="452">
+    <bookmark href="https://huggingface.co/" id="2033">
       <title>HuggingFace</title>
     </bookmark>
   </folder>
 </folder>
-<folder id="37">
+<folder id="1647">
   <title>Ai</title>
-  <folder id="174">
+  <folder id="1711">
     <title>公益节点</title>
-    <bookmark href="https://www.yuque.com/quruanpu/dimqr1/tb1e918r4av5ipdv?singleDoc#" id="293">
+    <bookmark href="https://www.yuque.com/quruanpu/dimqr1/tb1e918r4av5ipdv?singleDoc#" id="1864">
       <title>🔥Chat-AI合集🔥</title>
     </bookmark>
-    <bookmark href="https://link3.cc/freeai40" id="294">
+    <bookmark href="https://link3.cc/freeai40" id="1865">
       <title>FREEAI4.0 | Link3</title>
     </bookmark>
-    <bookmark href="https://home.xjai.top/" id="295">
+    <bookmark href="https://home.xjai.top/" id="1866">
       <title>动点原版chatgpt</title>
     </bookmark>
-    <bookmark href="https://ylsagi.io/" id="296">
+    <bookmark href="https://ylsagi.io/" id="1867">
       <title>伊莉思镜像</title>
     </bookmark>
   </folder>
-  <folder id="175">
+  <folder id="1712">
     <title>公益NewApi</title>
-    <bookmark href="https://demo.voapi.top/token" id="297">
+    <bookmark href="https://api.crond.dev/token" id="1868">
+      <title>DEV API</title>
+    </bookmark>
+    <bookmark href="https://demo.voapi.top/token" id="1869">
       <title>VoAPI</title>
     </bookmark>
-    <bookmark href="https://oai.itsfurry.com/" id="298">
+    <bookmark href="https://oai.itsfurry.com/" id="1870">
       <title>newapi 猫娘</title>
     </bookmark>
-    <bookmark href="https://api.7xnn.cn/" id="299">
+    <bookmark href="https://api.7xnn.cn/" id="1871">
       <title>MAX API</title>
     </bookmark>
-    <bookmark href="https://chat.zhucn.org/" id="300">
+    <bookmark href="https://chat.zhucn.org/" id="1872">
       <title>Test2API-1000$4o</title>
     </bookmark>
-    <bookmark href="https://api.smnet.asia/" id="301">
+    <bookmark href="https://api.smnet.asia/" id="1873">
       <title>SMNET API 神墨网络</title>
     </bookmark>
-    <bookmark href="https://api.linuxdo.info/" id="302">
+    <bookmark href="https://api.linuxdo.info/" id="1874">
       <title>Layla公益API</title>
     </bookmark>
-    <bookmark href="https://api.cymru/setting?tab=personal" id="303">
+    <bookmark href="https://api.cymru/setting?tab=personal" id="1875">
       <title>EAI API</title>
     </bookmark>
-    <bookmark href="https://do.s1viv1s.win/setting?tab=personal" id="304">
+    <bookmark href="https://do.s1viv1s.win/setting?tab=personal" id="1876">
       <title>普普通通</title>
     </bookmark>
   </folder>
-  <folder id="176">
+  <folder id="1713">
     <title>RawChat</title>
-    <bookmark href="https://kelaode.ai/" id="305">
+    <bookmark href="https://kelaode.ai/" id="1877">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://rawchat.vip/" id="306">
+    <bookmark href="https://rawchat.vip/" id="1878">
       <title>Chat</title>
     </bookmark>
-    <bookmark href="https://sharedchat.cn/" id="307">
+    <bookmark href="https://sharedchat.cn/" id="1879">
       <title>Chat</title>
     </bookmark>
   </folder>
-  <folder id="177">
+  <folder id="1714">
     <title>AItianhu</title>
-    <bookmark href="https://status.aiyunos.top/status/aitianhu" id="308">
+    <bookmark href="https://status.aiyunos.top/status/aitianhu" id="1880">
       <title>AItianhu 服务状态</title>
     </bookmark>
-    <bookmark href="https://080qqr.aitianhu.com/#/chat/1002" id="309">
+    <bookmark href="https://080qqr.aitianhu.com/#/chat/1002" id="1881">
       <title>AItianhu</title>
     </bookmark>
-    <bookmark href="https://plus.aitianhu2.top/?model=gpt-4" id="310">
+    <bookmark href="https://plus.aitianhu2.top/?model=gpt-4" id="1882">
       <title>ChatGPT</title>
     </bookmark>
   </folder>
-  <folder id="178">
+  <folder id="1715">
     <title>Fuclaude</title>
-    <bookmark href="https://demo.fuclaude.com/" id="311">
+    <bookmark href="https://demo.fuclaude.com/" id="1883">
       <title>FuClaude</title>
     </bookmark>
-    <bookmark href="https://test1o2t.fuclaude.oaifree.com/" id="312">
+    <bookmark href="https://test1o2t.fuclaude.oaifree.com/" id="1884">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest1o2t.fuclaude.oaifree.com/" id="313">
+    <bookmark href="https://aest1o2t.fuclaude.oaifree.com/" id="1885">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://xest1o2t.fuclaude.oaifree.com/new" id="314">
+    <bookmark href="https://xest1o2t.fuclaude.oaifree.com/new" id="1886">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://best1o2t.fuclaude.oaifree.com/new" id="315">
+    <bookmark href="https://best1o2t.fuclaude.oaifree.com/new" id="1887">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest11o2t.fuclaude.oaifree.com/new" id="316">
+    <bookmark href="https://aest11o2t.fuclaude.oaifree.com/new" id="1888">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest31o2t.fuclaude.oaifree.com/new" id="317">
+    <bookmark href="https://aest31o2t.fuclaude.oaifree.com/new" id="1889">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest41o2t.fuclaude.oaifree.com/new" id="318">
+    <bookmark href="https://aest41o2t.fuclaude.oaifree.com/new" id="1890">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest21o2t.fuclaude.oaifree.com/new" id="319">
+    <bookmark href="https://aest21o2t.fuclaude.oaifree.com/new" id="1891">
       <title>Claude</title>
     </bookmark>
-    <bookmark href="https://aest51o2t.fuclaude.oaifree.com/new" id="320">
+    <bookmark href="https://aest51o2t.fuclaude.oaifree.com/new" id="1892">
       <title>Claude</title>
     </bookmark>
   </folder>
-  <folder id="179">
+  <folder id="1716">
     <title>ChatGPT</title>
-    <bookmark href="https://chat.openai.com/" id="321">
+    <bookmark href="https://chat.openai.com/" id="1893">
       <title>ChatGPT</title>
     </bookmark>
-    <bookmark href="https://shared.oaifree.com/?temporary-chat=true" id="322">
+    <bookmark href="https://shared.oaifree.com/?temporary-chat=true" id="1894">
       <title>Shared ChatGPT</title>
     </bookmark>
-    <bookmark href="https://chatgpt.com/api/auth/session" id="323">
+    <bookmark href="https://chatgpt.com/api/auth/session" id="1895">
       <title>AccessToken</title>
     </bookmark>
-    <bookmark href="https://new.oaifree.com/" id="324">
+    <bookmark href="https://new.oaifree.com/" id="1896">
       <title>New ChatGPT</title>
     </bookmark>
-    <bookmark href="https://zhucn.org/" id="325">
+    <bookmark href="https://zhucn.org/" id="1897">
       <title>mirror-pool</title>
     </bookmark>
-    <bookmark href="https://share.freegpts.org/list" id="326">
+    <bookmark href="https://share.freegpts.org/list" id="1898">
       <title>choose-car</title>
     </bookmark>
   </folder>
-  <folder id="180">
+  <folder id="1717">
     <title>Pandora</title>
-    <bookmark href="https://new.oaifree.com/auth/login_auth0" id="327">
+    <bookmark href="https://new.oaifree.com/auth/login_auth0" id="1899">
       <title>Pandora</title>
     </bookmark>
-    <bookmark href="https://bhh.1o2t.top/login" id="328">
+    <bookmark href="https://bhh.1o2t.top/login" id="1900">
       <title>MyPandora</title>
     </bookmark>
-    <bookmark href="https://bhh.1o2t.top/admin/login" id="329">
+    <bookmark href="https://bhh.1o2t.top/admin/login" id="1901">
       <title>MyPandora Admin</title>
     </bookmark>
-    <bookmark href="https://token.oaifree.com/auth" id="330">
+    <bookmark href="https://token.oaifree.com/auth" id="1902">
       <title>ChatGPT Auth</title>
     </bookmark>
   </folder>
-  <folder id="181">
+  <folder id="1718">
     <title>Check-inAvailable</title>
-    <bookmark href="https://api.ephone.ai/" id="1079">
-      <title>API</title>
+    <bookmark href="https://api.ephone.ai/login" id="1903">
+      <title>益丰</title>
     </bookmark>
-    <bookmark href="https://api.gptoai.cc/" id="1080">
-      <title>Shawn API</title>
+    <bookmark href="https://api.gptoai.cc/login" id="1904">
+      <title>Shawn</title>
     </bookmark>
-    <bookmark href="https://afdian.net/a/bling_yshs" id="331">
+    <bookmark href="https://afdian.net/a/bling_yshs" id="1905">
       <title>Ai爱发电</title>
     </bookmark>
-    <bookmark href="https://api1.zhtec.xyz/" id="332">
+    <bookmark href="https://api1.zhtec.xyz/" id="1906">
       <title>ChatGPT</title>
     </bookmark>
-    <bookmark href="https://xh.aust001.com/#/" id="333">
+    <bookmark href="https://xh.aust001.com/#/" id="1907">
       <title>ChatGPT Token</title>
     </bookmark>
-    <bookmark href="https://flo.ing/conv/d8d34b1a-5911-4157-b022-80b2da83785e" id="334">
+    <bookmark href="https://flo.ing/conv/d8d34b1a-5911-4157-b022-80b2da83785e" id="1908">
       <title>flowith</title>
     </bookmark>
-    <bookmark href="https://gptgod.site/#/session/" id="335">
+    <bookmark href="https://gptgod.site/#/session/" id="1909">
       <title>GPT-GOD</title>
     </bookmark>
-    <bookmark href="https://super.imyai.top/chat" id="336">
+    <bookmark href="https://super.imyai.top/chat" id="1910">
       <title>IMYAI智能助手</title>
     </bookmark>
   </folder>
-  <folder id="182">
+  <folder id="1719">
     <title>搜索</title>
-    <bookmark href="https://www.perplexity.ai/" id="337">
+    <bookmark href="https://www.perplexity.ai/" id="1911">
       <title>Perplexity</title>
     </bookmark>
-    <bookmark href="https://kimi.moonshot.cn/?index=0&amp;tu=1" id="338">
+    <bookmark href="https://kimi.moonshot.cn/?index=0&amp;tu=1" id="1912">
       <title>Kimi.ai</title>
     </bookmark>
-    <bookmark href="https://tgso.pro/" id="339">
+    <bookmark href="https://tgso.pro/" id="1913">
       <title>TGSO.PRO</title>
     </bookmark>
-    <bookmark href="https://www.bing.com/search?q=Bing+AI&amp;showconv=1&amp;FORM=hpcodx" id="340">
+    <bookmark href="https://www.bing.com/search?q=Bing+AI&amp;showconv=1&amp;FORM=hpcodx" id="1914">
       <title>newbing</title>
     </bookmark>
   </folder>
-  <folder id="183">
+  <folder id="1720">
     <title>Prompt</title>
-    <bookmark href="https://www.promptingguide.ai/zh" id="341">
+    <bookmark href="https://www.promptingguide.ai/zh" id="1915">
       <title>Prompt Engineering Guide</title>
     </bookmark>
-    <bookmark href="https://ai.aust001.com/prompt.php" id="342">
+    <bookmark href="https://ai.aust001.com/prompt.php" id="1916">
       <title>Prompt生成</title>
     </bookmark>
-    <bookmark href="https://www.aishort.top/" id="343">
+    <bookmark href="https://www.aishort.top/" id="1917">
       <title>AiShort</title>
     </bookmark>
-    <bookmark href="https://agicto.com/prompt" id="344">
+    <bookmark href="https://agicto.com/prompt" id="1918">
       <title>Prompt广场</title>
     </bookmark>
-    <bookmark href="https://prompt.gwliang.com/" id="345">
+    <bookmark href="https://prompt.gwliang.com/" id="1919">
       <title>AI绘画 Prompt 生成器</title>
     </bookmark>
   </folder>
-  <folder id="497">
+  <folder id="2072">
     <title>Other</title>
-    <folder id="514">
+    <folder id="2100">
       <title>写作</title>
-      <bookmark href="https://if.caiyunai.com/dashboard/novels" id="525">
+      <bookmark href="https://if.caiyunai.com/dashboard/novels" id="2105">
         <title>彩云小梦</title>
       </bookmark>
-      <bookmark href="https://novelai.net/stories" id="526">
+      <bookmark href="https://novelai.net/stories" id="2106">
         <title>NovelAI</title>
       </bookmark>
-      <bookmark href="https://zuojia.baidu.com/#/" id="527">
+      <bookmark href="https://zuojia.baidu.com/#/" id="2107">
         <title>百度作家平台</title>
       </bookmark>
-      <folder id="528">
+      <folder id="2108">
         <title>自己模型</title>
-        <bookmark href="https://zhuanlan.zhihu.com/p/618011122" id="533">
+        <bookmark href="https://zhuanlan.zhihu.com/p/618011122" id="2122">
           <title>RWKV的Chat模型</title>
         </bookmark>
-        <bookmark href="https://zhuanlan.zhihu.com/p/642708647" id="534">
+        <bookmark href="https://zhuanlan.zhihu.com/p/642708647" id="2123">
           <title>RWKV CHNtuned 7B 开源中文模型</title>
         </bookmark>
-        <bookmark href="https://zhuanlan.zhihu.com/p/603840957" id="535">
+        <bookmark href="https://zhuanlan.zhihu.com/p/603840957" id="2124">
           <title>知乎</title>
         </bookmark>
-        <bookmark href="https://modelscope.cn/studios/BlinkDL/RWKV-CHN/summary" id="536">
+        <bookmark href="https://modelscope.cn/studios/BlinkDL/RWKV-CHN/summary" id="2125">
           <title>model</title>
         </bookmark>
       </folder>
     </folder>
   </folder>
-  <bookmark href="https://api.bhhnas.xyz/" id="498">
+  <bookmark href="https://api.bhhnas.xyz/" id="2073">
     <title>New API</title>
   </bookmark>
-  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="499">
-    <title>Google AI Studio</title>
-  </bookmark>
-  <bookmark href="http://38.175.203.146:3006/" id="1042">
+  <bookmark href="https://open.bhhnas.xyz/" id="2074">
     <title>Open WebUI</title>
   </bookmark>
-  <bookmark href="http://116.196.83.50:3100/chat?session=inbox" id="501">
+  <bookmark href="https://aistudio.google.com/prompts/new_chat" id="2075">
+    <title>Google AI Studio</title>
+  </bookmark>
+  <bookmark href="http://116.196.83.50:3100/chat?session=inbox" id="2076">
     <title>LobeChat</title>
   </bookmark>
-  <bookmark href="https://monica.im/zh_CN/home" id="502">
+  <bookmark href="https://monica.im/zh_CN/home" id="2077">
     <title>Monica</title>
   </bookmark>
-  <bookmark href="https://chat.notdiamond.ai/" id="503">
+  <bookmark href="https://chat.notdiamond.ai/" id="2078">
     <title>Not Diamond</title>
   </bookmark>
-  <bookmark href="https://fragments.e2b.dev/" id="504">
+  <bookmark href="https://fragments.e2b.dev/" id="2079">
     <title>前端页面生成AI</title>
   </bookmark>
-  <bookmark href="https://www.coze.com/" id="505">
+  <bookmark href="https://www.coze.com/" id="2080">
     <title>Coze</title>
   </bookmark>
-  <bookmark href="https://arena.lmsys.org/" id="1048">
-    <title>AI竞技场</title>
+  <bookmark href="https://livebench.ai/#/?slider=2" id="2081">
+    <title>LiveBench</title>
   </bookmark>
-  <bookmark href="https://aurorai.cn/chat/#/" id="1071">
-    <title>Aurora.ai</title>
-  </bookmark>
-  <bookmark href="https://openart.ai/workflows/home" id="530">
+  <bookmark href="https://openart.ai/workflows/home" id="2109">
     <title>ComfyUI Workflows</title>
   </bookmark>
-  <bookmark href="https://chat1.oaichat.cc/" id="531">
+  <bookmark href="https://chat1.oaichat.cc/" id="2110">
     <title>ChatK</title>
   </bookmark>
-  <bookmark href="https://foka.cc/" id="532">
+  <bookmark href="https://foka.cc/" id="2111">
     <title>foka.cc</title>
   </bookmark>
 </folder>
-<folder id="38">
+<folder id="1648">
   <title>TODO</title>
-  <bookmark href="https://leetcode.cn/studyplan/" id="184">
+  <bookmark href="https://leetcode.cn/studyplan/" id="1721">
     <title>学习计划</title>
   </bookmark>
-  <bookmark href="https://zhuanlan.zhihu.com/p/349951124" id="185">
+  <bookmark href="https://zhuanlan.zhihu.com/p/349951124" id="1722">
     <title>java回调机制</title>
   </bookmark>
-  <bookmark href="https://allenwu.itscoder.com/poly-in-java" id="186">
+  <bookmark href="https://allenwu.itscoder.com/poly-in-java" id="1723">
     <title>深入理解 Java 之重载与重写底层实现原理</title>
   </bookmark>
-  <bookmark href="https://www.jianshu.com/p/333659cc51ed" id="187">
+  <bookmark href="https://www.jianshu.com/p/333659cc51ed" id="1724">
     <title>Camunda学习笔记5</title>
   </bookmark>
-  <bookmark href="https://cloud.tencent.com/developer/article/2142039" id="188">
+  <bookmark href="https://cloud.tencent.com/developer/article/2142039" id="1725">
     <title>Camunda系列-ProcessEngine核心对象</title>
   </bookmark>
-  <bookmark href="https://www.lixin.help/" id="189">
+  <bookmark href="https://www.lixin.help/" id="1726">
     <title>博客</title>
   </bookmark>
-  <bookmark href="https://www.lixin.help/tags.html#Camunda" id="190">
+  <bookmark href="https://www.lixin.help/tags.html#Camunda" id="1727">
     <title>Camunda李新的博客</title>
   </bookmark>
 </folder>
-<bookmark href="https://ping0.cc/" id="479">
-  <title>ip</title>
-</bookmark>
 </xbel>
