@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2184: for Floccus bookmark sync browser extension -->
+<!--- highestId :2185: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -1102,6 +1102,9 @@
   </folder>
   <folder id="1980">
     <title>云</title>
+    <bookmark href="https://web1.dogssr.sbs/#/user/center" id="2185">
+      <title>Dogssr狗云加速器</title>
+    </bookmark>
     <bookmark href="https://www.lumiproxy.com/zh-hans/online-proxy/proxysite/" id="2009">
       <title>Proxysite Serv00代理</title>
     </bookmark>
