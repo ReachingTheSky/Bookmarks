@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2185: for Floccus bookmark sync browser extension -->
+<!--- highestId :2187: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -1202,6 +1202,12 @@
       <title>HuggingFace</title>
     </bookmark>
   </folder>
+  <bookmark href="https://panel.opengemini.tech/" id="2186">
+    <title>1Panel-SJ-HW</title>
+  </bookmark>
+  <bookmark href="https://console.huaweicloud.com/smb/?agencyId=f00d84d707294d0b9b4496410ade7711&amp;region=ap-southeast-3&amp;locale=zh-cn#/resource/list" id="2187">
+    <title>华为Flexus云服务</title>
+  </bookmark>
 </folder>
 <folder id="1647">
   <title>Ai</title>
