@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2187: for Floccus bookmark sync browser extension -->
+<!--- highestId :2188: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -1036,6 +1036,12 @@
   </folder>
   <folder id="1700">
     <title>Other</title>
+    <folder id="2188">
+      <title>Game</title>
+      <bookmark href="https://yyiyun.github.io/ceshi/" id="2184">
+        <title>DS手柄校准</title>
+      </bookmark>
+    </folder>
     <bookmark href="https://post.smzdm.com/p/a4pk5pr8/" id="1861">
       <title>移动光猫</title>
     </bookmark>
@@ -1505,8 +1511,5 @@
 </folder>
 <bookmark href="https://ping0.cc/" id="479">
   <title>ip</title>
-</bookmark>
-<bookmark href="https://yyiyun.github.io/ceshi/" id="2184">
-  <title>DS手柄校准</title>
 </bookmark>
 </xbel>
