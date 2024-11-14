@@ -1083,7 +1083,7 @@
     <title>阿里云</title>
   </bookmark>
   <bookmark href="https://console.huaweicloud.com/smb/?agencyId=f00d84d707294d0b9b4496410ade7711&amp;region=ap-southeast-3&amp;locale=zh-cn#/resource/list" id="2187">
-    <title>华为Flexus云服务</title>
+    <title>华为Flexus云</title>
   </bookmark>
   <bookmark href="https://www.cloudflare.com/zh-cn/" id="1977">
     <title>Cloudflare</title>
@@ -1507,6 +1507,6 @@
   <title>ip</title>
 </bookmark>
 <bookmark href="https://yyiyun.github.io/ceshi/" id="2184">
-  <title>手柄校准界面</title>
+  <title>DS手柄校准</title>
 </bookmark>
 </xbel>
