@@ -1064,6 +1064,9 @@
   <bookmark href="https://panel.bhhnas.xyz/" id="2176">
     <title>1panel-US-CCB</title>
   </bookmark>
+  <bookmark href="https://panel.opengemini.tech/" id="2186">
+    <title>1Panel-SJ-HW</title>
+  </bookmark>
   <bookmark href="https://virt.crunchbits.com/dashboard" id="1706">
     <title>Crunchbits控制台</title>
   </bookmark>
@@ -1078,6 +1081,9 @@
   </bookmark>
   <bookmark href="https://www.aliyun.com/?accounttraceid=ebad3fdae61a4b00bf642b6888274a18qnvu" id="1710">
     <title>阿里云</title>
+  </bookmark>
+  <bookmark href="https://console.huaweicloud.com/smb/?agencyId=f00d84d707294d0b9b4496410ade7711&amp;region=ap-southeast-3&amp;locale=zh-cn#/resource/list" id="2187">
+    <title>华为Flexus云服务</title>
   </bookmark>
   <bookmark href="https://www.cloudflare.com/zh-cn/" id="1977">
     <title>Cloudflare</title>
@@ -1202,12 +1208,6 @@
       <title>HuggingFace</title>
     </bookmark>
   </folder>
-  <bookmark href="https://panel.opengemini.tech/" id="2186">
-    <title>1Panel-SJ-HW</title>
-  </bookmark>
-  <bookmark href="https://console.huaweicloud.com/smb/?agencyId=f00d84d707294d0b9b4496410ade7711&amp;region=ap-southeast-3&amp;locale=zh-cn#/resource/list" id="2187">
-    <title>华为Flexus云服务</title>
-  </bookmark>
 </folder>
 <folder id="1647">
   <title>Ai</title>
