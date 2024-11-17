@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2188: for Floccus bookmark sync browser extension -->
+<!--- highestId :2189: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -1445,6 +1445,9 @@
       </folder>
     </folder>
   </folder>
+  <bookmark href="https://api2.aigcbest.top/token" id="2189">
+    <title>钱多多 API</title>
+  </bookmark>
   <bookmark href="https://api.bhhnas.xyz/" id="2073">
     <title>New API</title>
   </bookmark>
