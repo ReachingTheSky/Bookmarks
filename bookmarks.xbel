@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :2190: for Floccus bookmark sync browser extension -->
+<!--- highestId :2191: for Floccus bookmark sync browser extension -->
 
 <bookmark href="https://www.google.com.hk/" id="3">
   <title></title>
@@ -956,6 +956,9 @@
 </folder>
 <folder id="1645">
   <title>Int</title>
+  <bookmark href="https://soundbox.fun/sounds/rain11-thunder34-waves12-wind10-fire27-birds69-crickets48-coffee14-bowl40/" id="2191">
+    <title>Sound Box</title>
+  </bookmark>
   <bookmark href="https://www.nodeseek.com/" id="1693">
     <title>NodeSeek</title>
   </bookmark>
